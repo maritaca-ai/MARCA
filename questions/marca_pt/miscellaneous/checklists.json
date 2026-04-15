@@ -1,0 +1,67 @@
+{
+    "brazillian_swimmers_that_won_a_medal": [
+        "O relatório deve mencionar Ricardo Prado.",
+        "O relatório deve mencionar Gustavo Borges.",
+        "O relatório deve mencionar Fernando Scherer.",
+        "O relatório deve mencionar César Cielo Filho.",
+        "O relatório deve mencionar Thiago Pereira.",
+        "O relatório deve mencionar Bruno Fratus.",
+        "O relatório deve mencionar Fernando Scheffer."
+    ],
+
+    "brazillian_swimmers_that_won_a_medal_details": [
+        "O relatório deve mencionar que Ricardo Prado ganhou medalha de prata nos 400m medley nos Jogos Olímpicos de Los Angeles 1984.",
+        "O relatório deve mencionar que Gustavo Borges ganhou medalha de prata nos 100m livre nos Jogos Olímpicos de Barcelona 1992.",
+        "O relatório deve mencionar que Gustavo Borges ganhou medalha de prata nos 200m livre nos Jogos Olímpicos de Atlanta 1996.",
+        "O relatório deve mencionar que Gustavo Borges ganhou medalha de bronze nos 100m livre nos Jogos Olímpicos de Atlanta 1996.",
+        "O relatório deve mencionar que Fernando Scherer ganhou medalha de bronze nos 50m livre nos Jogos Olímpicos de Atlanta 1996.",
+        "O relatório deve mencionar que César Cielo Filho ganhou medalha de ouro nos 50m livre nos Jogos Olímpicos de Pequim 2008.",
+        "O relatório deve mencionar que César Cielo Filho ganhou medalha de bronze nos 100m livre nos Jogos Olímpicos de Pequim 2008.",
+        "O relatório deve mencionar que César Cielo Filho ganhou medalha de bronze nos 50m livre nos Jogos Olímpicos de Londres 2012.",
+        "O relatório deve mencionar que Thiago Pereira ganhou medalha de prata nos 400m medley nos Jogos Olímpicos de Londres 2012.",
+        "O relatório deve mencionar que Bruno Fratus ganhou medalha de bronze nos 50m livre nos Jogos Olímpicos de Tóquio 2020.",
+        "O relatório deve mencionar que Fernando Scheffer ganhou medalha de bronze nos 200m livre nos Jogos Olímpicos de Tóquio 2020."
+    ],
+    "models_decoder_only_portuguese_2024": [
+        "O relatório precisa mencionar o Sabiá.",
+        "O relatório precisa mencionar o Sabiá-2.",
+        "O relatório precisa mencionar o Sabiá-3.",
+        "O relatório precisa mencionar o Cabra.",
+        "O relatório precisa mencionar o Cabrita.",
+        "O relatório precisa mencionar o Canarim.",
+        "O relatório precisa mencionar o Bode.",
+        "O relatório precisa mencionar o TeenyTinyLlama.",
+        "O relatório precisa mencionar o Glória.",
+        "O relatório precisa mencionar o Gervásio.",
+        "O relatório precisa mencionar o Juru.",
+        "O relatório precisa mencionar o Amazonia.",
+        "O relatório precisa mencionar o Sapiens Chat.",
+        "O relatório precisa mencionar o SoberanIA.",
+        "O relatório precisa mencionar o Boto.",
+        "O relatório precisa mencionar o Lloro."
+    ],
+    "movies_with_directors_not_from_europe": [
+        "O relatório deve mencionar Anora.",
+        "O relatório deve mencionar The Brutalist.",
+        "O relatório deve mencionar A Complete Unknown.",
+        "O relatório deve mencionar Dune: Part Two.",
+        "O relatório deve mencionar I'm Still Here.",
+        "O relatório deve mencionar Nickel Boys.",
+        "O relatório deve mencionar Wicked."
+    ],
+    "foreign_players_with_more_than_10_goals_in_2024": [
+        "O relatório precisa mencionar o jogador Gonzalo Mastriani",
+        "O relatório precisa mencionar o jogador Ángel Romero",
+        "O relatório precisa mencionar o jogador Isidro Pitta",
+        "O relatório precisa mencionar o jogador Juan Martín Lucero",
+        "O relatório precisa mencionar o jogador José Manuel “Flaco” López",
+        "O relatório precisa mencionar o jogador Pablo Vegetti"
+    ],
+    "coaches_not_from_italy": [
+        "O relatório precisa mencionar o técnico Zlatko Dalić",
+        "O relatório precisa mencionar o técnico Thomas Tuchel",
+        "O relatório precisa mencionar o técnico Walid Regragui",
+        "O relatório precisa mencionar o técnico Ronald Koeman",
+        "O relatório precisa mencionar o técnico Roberto Martínez"
+    ]
+}

@@ -1,0 +1,497 @@
+[
+    {
+        "id": "game_awards_1_2",
+        "original_id": "game_awards_1",
+        "generation": 2,
+        "question": "list for me the winners of the game awards 2023",
+        "response": "The Game Awards 2023 were dominated by **Baldur’s Gate 3**, which took home six awards including Game of the Year. **Alan Wake 2** also had a strong performance, winning three awards.\n\nHere is the complete list of winners from the 2023 ceremony:\n\n### **Top Honors**\n*   **Game of the Year:** Baldur’s Gate 3\n*   **Best Game Direction:** Alan Wake 2\n*   **Best Narrative:** Alan Wake 2\n*   **Best Art Direction:** Alan Wake 2\n*   **Best Score and Music:** Final Fantasy XVI (Masayoshi Soken)\n*   **Best Audio Design:** Hi-Fi Rush\n*   **Best Performance:** Neil Newbon (Astarion, Baldur’s Gate 3)\n*   **Games for Impact:** Tchia\n*   **Best Ongoing Game:** Cyberpunk 2077\n*   **Best Indie Game:** Sea of Stars\n*   **Best Debut Indie Game:** Cocoon\n*   **Best Community Support:** Baldur’s Gate 3\n\n### **Genre Awards**\n*   **Best Action Game:** Armored Core VI: Fires of Rubicon\n*   **Best Action/Adventure Game:** The Legend of Zelda: Tears of the Kingdom\n*   **Best RPG:** Baldur’s Gate 3\n*   **Best Fighting Game:** Street Fighter 6\n*   **Best Family Game:** Super Mario Bros. Wonder\n*   **Best Simulation/Strategy Game:** Pikmin 4\n*   **Best Sports/Racing Game:** Forza Motorsport\n*   **Best Multiplayer Game:** Baldur’s Gate 3\n*   **Best VR/AR Game:** Resident Evil Village VR Mode\n\n### **Other Categories**\n*   **Innovation in Accessibility:** Forza Motorsport\n*   **Best Mobile Game:** Honkai: Star Rail\n*   **Most Anticipated Game:** Final Fantasy VII Rebirth\n*   **Content Creator of the Year:** Ironmouse\n*   **Best Adaptation:** The Last of Us (HBO)\n*   **Players’ Voice:** Baldur’s Gate 3\n\n### **Esports Awards**\n*   **Best Esports Game:** Valorant\n*   **Best Esports Athlete:** Lee \"Faker\" Sang-hyeok\n*   **Best Esports Team:** JD Gaming (League of Legends)\n*   **Best Esports Coach:** Christine \"potter\" Chi\n*   **Best Esports Event:** 2023 League of Legends World Championship",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_tm9cxsQMqChosAxjdQzj",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_tm9cxsQMqChosAxjdQzj",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7qhSOl77TYLC5cxlzADurrhhxRNYI1bj/mKvfih1pt31NlUXPct0UWCwgf8Pt"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n5. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n6. - Title: The Game Awards 2023: the winners, the news, the games \n Link: https://store.epicgames.com/en-US/news/the-game-awards-2023-the-winners-the-news-the-games\n Snippet: THE NOMINEES AND WINNERS ; The Last of Us · Best Narrative ; Cyberpunk 2077: Phantom Liberty · Best Art Direction ; Hi-Fi Rush · Best Score and Music ; Dead Space ...\n\n7. - Title: The Game Awards 2023 results: All the winners \n Link: https://www.pcgamer.com/the-game-awards-2023-results-all-the-winners/\n Snippet: Lee \"Faker\" Sang-Hyeok (League of Legends) · Mathieu \"ZywOo\" Herbaut (CS:GO) · Max \"Demon1\" Mazanov (Valorant) · Paco \"HyDra\" Rusiewiez (Call of ...\n\n8. - Title: Confira os vencedores do The Game Awards 2023 \n Link: https://jovemnerd.com.br/noticias/games/the-game-awards-2023-lista-vencedores\n Snippet: Jogo do Ano · Alan Wake 2 · Baldur's Gate 3 · Marvel's Spider-Man 2 · Resident Evil 4 · Super Mario Bros. Wonder · Zelda: Tears of the Kingdom ...\n\n9. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n10. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n",
+                "tool_call_id": "tool_search_tm9cxsQMqChosAxjdQzj",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1276,
+            "completion_tokens": 563,
+            "total_tokens": 1839,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_1_1",
+        "original_id": "game_awards_1",
+        "generation": 1,
+        "question": "list for me the winners of the game awards 2023",
+        "response": "The Game Awards 2023 took place on December 7, 2023, at the Peacock Theater in Los Angeles. **Baldur's Gate 3** was the night's big winner, taking home six awards, including Game of the Year.\n\nHere is the full list of winners by category:\n\n### **Top Awards**\n*   **Game of the Year:** Baldur’s Gate 3\n*   **Best Game Direction:** Alan Wake 2\n*   **Best Narrative:** Alan Wake 2\n*   **Best Art Direction:** Alan Wake 2\n*   **Best Score and Music:** Final Fantasy XVI (Masayoshi Soken)\n*   **Best Audio Design:** Hi-Fi Rush\n*   **Best Performance:** Neil Newbon (Astarion, Baldur’s Gate 3)\n*   **Innovation in Accessibility:** Forza Motorsport\n*   **Games for Impact:** Tchia\n\n### **Genre Awards**\n*   **Best Action Game:** Armored Core VI: Fires of Rubicon\n*   **Best Action/Adventure Game:** The Legend of Zelda: Tears of the Kingdom\n*   **Best RPG:** Baldur’s Gate 3\n*   **Best Fighting Game:** Street Fighter 6\n*   **Best Family Game:** Super Mario Bros. Wonder\n*   **Best Sim/Strategy Game:** Pikmin 4\n*   **Best Sports/Racing Game:** Forza Motorsport\n*   **Best Multiplayer:** Baldur’s Gate 3\n\n### **Support & Community**\n*   **Best Ongoing Game:** Cyberpunk 2077\n*   **Best Community Support:** Baldur’s Gate 3\n*   **Best Independent Game:** Sea of Stars\n*   **Best Debut Indie Game:** Cocoon\n*   **Best Mobile Game:** Honkai: Star Rail\n*   **Best VR/AR Game:** Resident Evil Village VR Mode\n\n### **Media & Esports**\n*   **Best Adaptation:** The Last of Us (HBO)\n*   **Most Anticipated Game:** Final Fantasy VII Rebirth\n*   **Content Creator of the Year:** Ironmouse\n*   **Best Esports Game:** Valorant\n*   **Best Esports Athlete:** Lee “Faker” Sang-hyeok (League of Legends)\n*   **Best Esports Team:** JD Gaming (League of Legends)\n*   **Best Esports Coach:** Christine “potter” Chi (Evil Geniuses - Valorant)\n*   **Best Esports Event:** 2023 League of Legends World Championship\n\n### **Fan Vote**\n*   **Players' Voice:** Baldur’s Gate 3",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_xR39LIGP7PcFxYGEBOuj",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_xR39LIGP7PcFxYGEBOuj",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7qwSIeY1anbpBwYp7UpLspiHmTsSTvJhyA3f6eBvCKsccaAWqwmeowFCsmaFf"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n5. - Title: The Game Awards 2023: the winners, the news, the games \n Link: https://store.epicgames.com/en-US/news/the-game-awards-2023-the-winners-the-news-the-games\n Snippet: THE NOMINEES AND WINNERS ; The Last of Us · Best Narrative ; Cyberpunk 2077: Phantom Liberty · Best Art Direction ; Hi-Fi Rush · Best Score and Music ; Dead Space ...\n\n6. - Title: Confira os vencedores do The Game Awards 2023 \n Link: https://jovemnerd.com.br/noticias/games/the-game-awards-2023-lista-vencedores\n Snippet: Jogo do Ano · Alan Wake 2 · Baldur's Gate 3 · Marvel's Spider-Man 2 · Resident Evil 4 · Super Mario Bros. Wonder · Zelda: Tears of the Kingdom ...\n\n7. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n8. - Title: All The Game Awards 2023 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2023-winners-revealed/2900-4977/\n Snippet: Lee “Faker” Sang-hyeok (League of Legends) · Mathieu “ZywOo” Herbaut (CS:GO) · Max “Demon1” Mazanov (Valorant) · Paco “HyDra” Rusiewiez (Call of ...\n\n9. - Title: TODOS os VENCEDORES do The Game Awards 2023 \n Link: https://www.youtube.com/watch?v=fhRhgs5_EoE\n Snippet: Veja a lista e a nossa opinião dos melhores games de 2023. Gameplay de Fundo: https://www.youtube.com/c/NoHUDGameplays/featured ...\n\n10. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n",
+                "tool_call_id": "tool_search_xR39LIGP7PcFxYGEBOuj",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1290,
+            "completion_tokens": 587,
+            "total_tokens": 1877,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_1_3",
+        "original_id": "game_awards_1",
+        "generation": 3,
+        "question": "list for me the winners of the game awards 2023",
+        "response": "The Game Awards 2023 took place on December 7, 2023. **Baldur’s Gate 3** was the big winner of the night, taking home six awards including Game of the Year.\n\nHere is the full list of winners by category:\n\n### **Overall Awards**\n*   **Game of the Year:** Baldur’s Gate 3\n*   **Best Game Direction:** Alan Wake 2\n*   **Best Narrative:** Alan Wake 2\n*   **Best Art Direction:** Alan Wake 2\n*   **Best Score and Music:** Final Fantasy XVI (Masayoshi Soken)\n*   **Best Audio Design:** Hi-Fi Rush\n*   **Best Performance:** Neil Newbon (Astarion in Baldur’s Gate 3)\n*   **Innovation in Accessibility:** Forza Motorsport\n*   **Games for Impact:** Tchia\n\n### **Genre Awards**\n*   **Best Action Game:** Armored Core VI: Fires of Rubicon\n*   **Best Action/Adventure Game:** The Legend of Zelda: Tears of the Kingdom\n*   **Best RPG:** Baldur’s Gate 3\n*   **Best Fighting Game:** Street Fighter 6\n*   **Best Family Game:** Super Mario Bros. Wonder\n*   **Best Sim/Strategy Game:** Pikmin 4\n*   **Best Sports/Racing Game:** Forza Motorsport\n*   **Best Multiplayer Game:** Baldur’s Gate 3\n\n### **Support & Community**\n*   **Best Ongoing Game:** Cyberpunk 2077\n*   **Best Community Support:** Baldur’s Gate 3\n*   **Best Independent Game:** Sea of Stars\n*   **Best Debut Indie Game:** Cocoon\n*   **Best Mobile Game:** Honkai: Star Rail\n*   **Best VR/AR Game:** Resident Evil Village VR Mode\n\n### **Media & Creators**\n*   **Best Adaptation:** The Last of Us (HBO)\n*   **Most Anticipated Game:** Final Fantasy VII Rebirth\n*   **Content Creator of the Year:** Ironmouse\n\n### **Esports**\n*   **Best Esports Game:** Valorant\n*   **Best Esports Athlete:** Lee “Faker” Sang-hyeok (League of Legends)\n*   **Best Esports Team:** JD Gaming (League of Legends)\n*   **Best Esports Coach:** Christine “potter” Chi (Evil Geniuses - Valorant)\n*   **Best Esports Event:** 2023 League of Legends World Championship\n\n### **Fan Vote**\n*   **Players' Voice:** Baldur’s Gate 3",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_NJXA52VGeBqVFVSnGwZW",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_NJXA52VGeBqVFVSnGwZW",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7Qr3VaDP2QpG57eI82UVrCUHJLNErPqnC62eJQC7OxtYR6/FL51IeOf8f20JO"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n5. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n6. - Title: Confira os vencedores do The Game Awards 2023 \n Link: https://jovemnerd.com.br/noticias/games/the-game-awards-2023-lista-vencedores\n Snippet: Jogo do Ano · Alan Wake 2 · Baldur's Gate 3 · Marvel's Spider-Man 2 · Resident Evil 4 · Super Mario Bros. Wonder · Zelda: Tears of the Kingdom ...\n\n7. - Title: The Game Awards 2023: the winners, the news, the games \n Link: https://store.epicgames.com/en-US/news/the-game-awards-2023-the-winners-the-news-the-games\n Snippet: THE NOMINEES AND WINNERS ; The Last of Us · Best Narrative ; Cyberpunk 2077: Phantom Liberty · Best Art Direction ; Hi-Fi Rush · Best Score and Music ; Dead Space ...\n\n8. - Title: The Game Awards 2023 \n Link: https://thegameawards.fandom.com/wiki/The_Game_Awards_2023\n Snippet: Nominees and Winners · Game of the Year · Best Game Direction · Best Narrative · Best Art Direction · Best Score and Music · Best Audio Design · Best Performance.\n\n9. - Title: TGA 2023: Confira a lista completa de vencedores \n Link: https://www.theenemy.com.br/home-the-enemy/tga-23-lista-vencedores\n Snippet: Melhor Direção · Alan Wake 2 (Remedy Entertainment/Epic Games Publishing) - Vencedor · Baldur's Gate 3 (Larian Studios) · Marvel's Spider-Man 2( ...\n\n10. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n",
+                "tool_call_id": "tool_search_NJXA52VGeBqVFVSnGwZW",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1265,
+            "completion_tokens": 585,
+            "total_tokens": 1850,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_1",
+        "original_id": "game_awards_2",
+        "generation": 1,
+        "question": "list for me the winners of the game awards 2024",
+        "response": "The Game Awards 2024 took place on December 12, 2024. **Astro Bot** was the biggest winner of the night, taking home the prestigious Game of the Year award along with several other categories.\n\nBelow is the complete list of winners:\n\n### **Top Honors**\n*   **Game of the Year:** Astro Bot\n*   **Best Game Direction:** Astro Bot\n*   **Best Narrative:** Final Fantasy VII Rebirth\n*   **Best Art Direction:** Metaphor: ReFantazio\n*   **Best Score and Music:** Final Fantasy VII Rebirth\n*   **Best Audio Design:** Senua's Saga: Hellblade II\n*   **Best Performance:** Melina Juergens as Senua (Senua's Saga: Hellblade II)\n*   **Innovation in Accessibility:** Prince of Persia: The Lost Crown\n*   **Games for Impact:** Neva\n\n### **Genre Awards**\n*   **Best Action Game:** Black Myth: Wukong\n*   **Best Action/Adventure Game:** Astro Bot\n*   **Best RPG:** Final Fantasy VII Rebirth\n*   **Best Fighting Game:** Tekken 8\n*   **Best Family Game:** Astro Bot\n*   **Best Sim/Strategy Game:** Frostpunk 2\n*   **Best Sports/Racing Game:** F1 24\n*   **Best Multiplayer Game:** Helldivers 2\n\n### **Ongoing & Community Awards**\n*   **Best Ongoing Game:** Helldivers 2\n*   **Best Community Support:** No Man's Sky\n*   **Best Independent Game:** Balatro\n*   **Best Debut Indie Game:** Balatro\n*   **Best Mobile Game:** Balatro\n*   **Best VR/AR Game:** Batman: Arkham Shadow\n\n### **Other Award Categories**\n*   **Most Anticipated Game:** Grand Theft Auto VI\n*   **Best Adaptation:** Fallout (Amazon Prime Video)\n*   **Best Esports Game:** League of Legends\n*   **Best Esports Event:** 2024 League of Legends World Championship\n*   **Best Esports Athlete:** Faker (Lee Sang-hyeok)\n*   **Content Creator of the Year:** Valkyrae\n*   **Players' Voice (Fan Voted):** Black Myth: Wukong",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_1ahIobRkNaNna2wg7xXV",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_1ahIobRkNaNna2wg7xXV",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7ott7KdNg2JRaGNT1k8IhV7g0fnJFHRQGrJDA1a9cw4oqrxgVa9FLtipYO7FE"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n6. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n7. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n8. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n9. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: Full Winners · WINNER: Melina Juergens, Senua's Saga: Hellblade 2 · Hannah Telle, Life is Strange: Double Exposure · Briana White, Final Fantasy 7 ...\n\n10. - Title: The Game Awards 2024 \n Link: https://pt.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: The Game Awards 2024 foi uma premiação que homenageou os melhores jogos eletrônicos de 2024. ... «The Game Award 2024 Winners: The Full List». IGN. Ziff Davis.\n\n",
+                "tool_call_id": "tool_search_1ahIobRkNaNna2wg7xXV",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1189,
+            "completion_tokens": 516,
+            "total_tokens": 1705,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_2",
+        "original_id": "game_awards_2",
+        "generation": 2,
+        "question": "list for me the winners of the game awards 2024",
+        "response": "The Game Awards 2024 took place on December 12, 2024. **Astro Bot** was the big winner of the night, taking home the Game of the Year award along with several other honors.\n\nHere is the complete list of winners for each category:\n\n### **Overall & Genre Awards**\n*   **Game of the Year:** *Astro Bot*\n*   **Best Game Direction:** *Astro Bot*\n*   **Best Narrative:** *Final Fantasy VII Rebirth*\n*   **Best Art Direction:** *Metaphor: ReFantazio*\n*   **Best Score and Music:** *Final Fantasy VII Rebirth* (Mitsuto Suzuki / Keiki Kobayashi)\n*   **Best Audio Design:** *Senua's Saga: Hellblade II*\n*   **Best Performance:** Briana White as Aerith Gainsborough (*Final Fantasy VII Rebirth*)\n*   **Games for Impact:** *Neva*\n*   **Best Ongoing Game:** *Cyberpunk 2077*\n*   **Best Indie Game:** *Balatro*\n*   **Best Debut Indie Game:** *Balatro*\n*   **Best Community Support:** *No Man's Sky*\n*   **Best Mobile Game:** *Balatro*\n*   **Best VR / AR Game:** *Astro Bot*\n*   **Best Action Game:** *Black Myth: Wukong*\n*   **Best Action/Adventure Game:** *Astro Bot*\n*   **Best RPG:** *Metaphor: ReFantazio*\n*   **Best Fighting Game:** *Tekken 8*\n*   **Best Family Game:** *Astro Bot*\n*   **Best Sim/Strategy Game:** *Manor Lords*\n*   **Best Sports/Racing Game:** *F1 24*\n*   **Best Multiplayer Game:** *Helldivers 2*\n*   **Best Adaptation:** *Arcane* (Netflix)\n*   **Most Anticipated Game:** *Grand Theft Auto VI*\n*   **Innovation in Accessibility:** *Prince of Persia: The Lost Crown*\n\n### **Esports & Content Creation**\n*   **Best Esports Game:** *League of Legends*\n*   **Best Esports Athlete:** Faker (Lee Sang-hyeok)\n*   **Best Esports Team:** T1 (*League of Legends*)\n*   **Content Creator of the Year:** Valkyrae\n*   **Players' Voice (Fan Voted):** *Black Myth: Wukong*\n\n### **Key Takeaways:**\n*   **Astro Bot** led the night with 4 wins, including Game of the Year.\n*   **Balatro** was the breakout indie success, winning Best Indie, Best Debut Indie, and Best Mobile Game.\n*   **Final Fantasy VII Rebirth** and **Metaphor: ReFantazio** also secured multiple high-profile wins.",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_NmYsULnhWOoFoxrpchKw",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_NmYsULnhWOoFoxrpchKw",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7z8/oBtEAx4466T3WbeMudokTMTnG7inmpNucV6vHE2yNMW3TRxZ9TkcvMdjM"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ReFantazio, and ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n6. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n7. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n8. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: The best games of 2024, picked by NPR's staff · WINNER: Tekken 8 · Granblue Fantasy Versus: Rising · Dragon Ball: Sparking! ZERO · Marvel vs Capcom ...\n\n9. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n10. - Title: Every Winner From the 2024 Game Awards \n Link: https://www.vulture.com/article/game-awards-2024-winners.html\n Snippet: Here are all the winners and nominees from this year's Game Awards, streaming live on IGN. Game of the Year Astro Bot Balatro Black Myth: Wukong Elden Ring ...\n\n",
+                "tool_call_id": "tool_search_NmYsULnhWOoFoxrpchKw",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1188,
+            "completion_tokens": 647,
+            "total_tokens": 1835,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_3",
+        "original_id": "game_awards_2",
+        "generation": 3,
+        "question": "list for me the winners of the game awards 2024",
+        "response": "The Game Awards 2024 took place on December 12, 2024. **Astro Bot** was the big winner of the night, taking home the prestigious **Game of the Year** award along with several other trophies.\n\nHere is the full list of winners by category:\n\n### **Top Honors**\n*   **Game of the Year:** Astro Bot\n*   **Best Game Direction:** Astro Bot\n*   **Best Narrative:** Final Fantasy VII Rebirth\n*   **Best Art Direction:** Metaphor: ReFantazio\n*   **Best Score and Music:** Final Fantasy VII Rebirth\n*   **Best Audio Design:** Senua's Saga: Hellblade II\n*   **Best Performance:** Briana White as Aerith Gainsborough (Final Fantasy VII Rebirth)\n*   **Games for Impact:** Neva\n*   **Best Ongoing Game:** Helldivers 2\n*   **Best Community Support:** Baldur's Gate 3\n\n### **Genre Awards**\n*   **Best Action Game:** Black Myth: Wukong\n*   **Best Action/Adventure Game:** Astro Bot\n*   **Best RPG:** Final Fantasy VII Rebirth\n*   **Best Fighting Game:** Tekken 8\n*   **Best Family Game:** Astro Bot\n*   **Best Sim/Strategy Game:** Frostpunk 2\n*   **Best Sports/Racing Game:** F1 24\n*   **Best Multiplayer:** Helldivers 2\n\n### **Independent & Creative Awards**\n*   **Best Independent Game:** Balatro\n*   **Best Debut Indie Game:** Balatro\n*   **Best Mobile Game:** Balatro\n*   **Best VR/AR Game:** Batman: Arkham Shadow\n*   **Innovation in Accessibility:** Prince of Persia: The Lost Crown\n*   **Best Adaptation:** Fallout (Amazon Prime Video)\n\n### **E-sports & Content Creation**\n*   **Best E-sports Game:** League of Legends\n*   **Best E-sports Athlete:** Lee \"Faker\" Sang-hyeok\n*   **Best E-sports Team:** T1 (League of Legends)\n*   **Content Creator of the Year:** Valkyrae\n\n### **Fan & Upcoming Choice**\n*   **Most Anticipated Game:** Grand Theft Auto VI\n*   **Players' Voice (Fan Vote):** Black Myth: Wukong\n\n**Summary of Wins:**\n*   **Astro Bot:** 4 Wins (including Game of the Year)\n*   **Final Fantasy VII Rebirth:** 3 Wins\n*   **Balatro:** 3 Wins\n*   **Black Myth: Wukong:** 2 Wins\n*   **Helldivers 2:** 2 Wins",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_GFTYX0w06rtcsIahjgG8",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_GFTYX0w06rtcsIahjgG8",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7Qw4UcZcKSEVCOk1CvRnOXPX5sxxbbve2Nqks+6Q7xhbeF4lDSekOBCgNJ4YX"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ReFantazio, and ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n6. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n7. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n8. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: The best games of 2024, picked by NPR's staff · WINNER: Tekken 8 · Granblue Fantasy Versus: Rising · Dragon Ball: Sparking! ZERO · Marvel vs Capcom ...\n\n9. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n10. - Title: Every Winner From the 2024 Game Awards \n Link: https://www.vulture.com/article/game-awards-2024-winners.html\n Snippet: Here are all the winners and nominees from this year's Game Awards, streaming live on IGN. Game of the Year Astro Bot Balatro Black Myth: Wukong Elden Ring ...\n\n",
+                "tool_call_id": "tool_search_GFTYX0w06rtcsIahjgG8",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1188,
+            "completion_tokens": 605,
+            "total_tokens": 1793,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_3",
+        "original_id": "game_awards_3",
+        "generation": 3,
+        "question": "list for me the winners of the game awards of 2023 and 2024",
+        "response": "Here are the winners of the major categories for The Game Awards in 2023 and 2024.\n\n### **The Game Awards 2024**\nThe 2024 ceremony took place on December 12, 2024. **Astro Bot** was the big winner of the night, taking home four awards including Game of the Year.\n\n*   **Game of the Year:** *Astro Bot*\n*   **Best Game Direction:** *Astro Bot*\n*   **Best Narrative:** *Metaphor: ReFantazio*\n*   **Best Art Direction:** *Metaphor: ReFantazio*\n*   **Best Score and Music:** *Final Fantasy VII Rebirth*\n*   **Best Audio Design:** *Senua's Saga: Hellblade II*\n*   **Best Performance:** Melina Juergens as Senua (*Senua's Saga: Hellblade II*)\n*   **Best Independent Game:** *Balatro*\n*   **Best Debut Indie Game:** *Balatro*\n*   **Best Ongoing Game:** *Helldivers 2*\n*   **Best Mobile Game:** *Balatro*\n*   **Best Action Game:** *Helldivers 2*\n*   **Best Action/Adventure Game:** *Astro Bot*\n*   **Best RPG:** *Final Fantasy VII Rebirth*\n*   **Best Fighting Game:** *Tekken 8*\n*   **Best Family Game:** *Astro Bot*\n*   **Best Simulation/Strategy Game:** *Manor Lords*\n*   **Best Sports/Racing Game:** *F1 24*\n*   **Best Multiplayer:** *Helldivers 2*\n*   **Best Adaptation:** *Fallout* (Amazon Prime Video)\n*   **Most Anticipated Game:** *Grand Theft Auto VI*\n\n---\n\n### **The Game Awards 2023**\nThe 2023 ceremony was dominated by **Baldur’s Gate 3**, which won six awards, and **Alan Wake 2**, which won three.\n\n*   **Game of the Year:** *Baldur’s Gate 3*\n*   **Best Game Direction:** *Alan Wake 2*\n*   **Best Narrative:** *Alan Wake 2*\n*   **Best Art Direction:** *Alan Wake 2*\n*   **Best Score and Music:** *Final Fantasy XVI*\n*   **Best Audio Design:** *Hi-Fi Rush*\n*   **Best Performance:** Neil Newbon as Astarion (*Baldur’s Gate 3*)\n*   **Best Independent Game:** *Sea of Stars*\n*   **Best Debut Indie Game:** *Cocoon*\n*   **Best Ongoing Game:** *Cyberpunk 2077*\n*   **Best Mobile Game:** *Honkai: Star Rail*\n*   **Best Action Game:** *Armored Core VI: Fires of Rubicon*\n*   **Best Action/Adventure Game:** *The Legend of Zelda: Tears of the Kingdom*\n*   **Best RPG:** *Baldur’s Gate 3*\n*   **Best Fighting Game:** *Street Fighter 6*\n*   **Best Family Game:** *Super Mario Bros. Wonder*\n*   **Best Simulation/Strategy Game:** *Pikmin 4*\n*   **Best Sports/Racing Game:** *Forza Motorsport*\n*   **Best Multiplayer:** *Baldur’s Gate 3*\n*   **Best Adaptation:** *The Last of Us* (HBO)\n*   **Most Anticipated Game:** *Final Fantasy VII Rebirth*",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_cxoEPFQB9n7G9JP5Kfqb",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    },
+                    {
+                        "id": "tool_search_zxEWJOzbdhQ9kGGGM9Uf",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 1
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_cxoEPFQB9n7G9JP5Kfqb",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "CiEBjz1rX3b0994Dab4uxKQZPVisQX3qAw9Td3zmparwdsc="
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n5. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n6. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n7. - Title: The Game Awards 2023 - All Winners \n Link: https://www.youtube.com/watch?v=tA0Wo50U_nw\n Snippet: The Game Awards 2023 - All Winners - In this video I have compiled all the winners from the 2023 Game Awards into a single video.\n\n8. - Title: All The Game Awards 2023 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2023-winners-revealed/2900-4977/\n Snippet: Lee “Faker” Sang-hyeok (League of Legends) · Mathieu “ZywOo” Herbaut (CS:GO) · Max “Demon1” Mazanov (Valorant) · Paco “HyDra” Rusiewiez (Call of ...\n\n9. - Title: The Game Awards 2023: the winners, the news, the games \n Link: https://store.epicgames.com/en-US/news/the-game-awards-2023-the-winners-the-news-the-games\n Snippet: THE NOMINEES AND WINNERS ; The Last of Us · Best Narrative ; Cyberpunk 2077: Phantom Liberty · Best Art Direction ; Hi-Fi Rush · Best Score and Music ; Dead Space ...\n\n10. - Title: The Game Awards 2023 \n Link: https://pt.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Baldur's Gate III liderou a premiação com nove indicações e seis vitórias, incluindo Jogo do Ano e \"Melhor Performance\" para Neil Newbon. Vários novos jogos ...\n\n",
+                "tool_call_id": "tool_search_cxoEPFQB9n7G9JP5Kfqb",
+                "name": "search"
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ReFantazio, and ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n6. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n7. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n8. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n9. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: The best games of 2024, picked by NPR's staff · WINNER: Tekken 8 · Granblue Fantasy Versus: Rising · Dragon Ball: Sparking! ZERO · Marvel vs Capcom ...\n\n10. - Title: The Game Awards 2024 \n Link: https://pt.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: The Game Awards 2024 foi uma premiação que homenageou os melhores jogos eletrônicos de 2024. ... «The Game Award 2024 Winners: The Full List». IGN. Ziff Davis.\n\n",
+                "tool_call_id": "tool_search_zxEWJOzbdhQ9kGGGM9Uf",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 2109,
+            "completion_tokens": 816,
+            "total_tokens": 2925,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_1",
+        "original_id": "game_awards_3",
+        "generation": 1,
+        "question": "list for me the winners of the game awards of 2023 and 2024",
+        "response": "Here is the list of winners for the main categories of **The Game Awards** for both 2023 and 2024.\n\n### **The Game Awards 2024**\nThe 2024 ceremony took place on December 12, 2024. **Astro Bot** was the biggest winner of the night.\n\n| Category | Winner |\n| :--- | :--- |\n| **Game of the Year** | **Astro Bot** |\n| Best Game Direction | Astro Bot |\n| Best Narrative | Metaphor: ReFantazio |\n| Best Art Direction | Metaphor: ReFantazio |\n| Best Score and Music | Final Fantasy VII Rebirth |\n| Best Performance | Briana White (Aerith, *Final Fantasy VII Rebirth*) |\n| Best Ongoing Game | Helldivers 2 |\n| Best Indie Game | Balatro |\n| Best Mobile Game | Balatro |\n| Best Action Game | Helldivers 2 |\n| Best Action/Adventure Game | Astro Bot |\n| Best RPG | Final Fantasy VII Rebirth |\n| Best Fighting Game | Tekken 8 |\n| Best Family Game | Astro Bot |\n| Best Sim/Strategy Game | Manor Lords |\n| Best Sports/Racing Game | F1 24 |\n| Best Multiplayer | Helldivers 2 |\n| Best Adaptation | Fallout (Amazon Prime Video) |\n| Players' Voice | Black Myth: Wukong |\n| Most Anticipated Game | Grand Theft Auto VI |\n\n---\n\n### **The Game Awards 2023**\nThe 2023 ceremony was dominated by **Baldur’s Gate 3**, which won six awards, including Game of the Year.\n\n| Category | Winner |\n| :--- | :--- |\n| **Game of the Year** | **Baldur's Gate 3** |\n| Best Game Direction | Alan Wake 2 |\n| Best Narrative | Alan Wake 2 |\n| Best Art Direction | Alan Wake 2 |\n| Best Score and Music | Final Fantasy XVI |\n| Best Performance | Neil Newbon (Astarion, *Baldur's Gate 3*) |\n| Best Ongoing Game | Cyberpunk 2077 |\n| Best Indie Game | Sea of Stars |\n| Best Mobile Game | Honkai: Star Rail |\n| Best Action Game | Armored Core VI: Fires of Rubicon |\n| Best Action/Adventure Game | The Legend of Zelda: Tears of the Kingdom |\n| Best RPG | Baldur's Gate 3 |\n| Best Fighting Game | Street Fighter 6 |\n| Best Family Game | Super Mario Bros. Wonder |\n| Best Sim/Strategy Game | Pikmin 4 |\n| Best Sports/Racing Game | Forza Motorsport |\n| Best Multiplayer | Baldur's Gate 3 |\n| Best Adaptation | The Last of Us (HBO) |\n| Players' Voice | Baldur's Gate 3 |\n| Most Anticipated Game | Final Fantasy VII Rebirth |",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_6FFZI7RClZCxX18jLrsf",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    },
+                    {
+                        "id": "tool_search_2Dtzj2gVjbLe5ZZr7ouP",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 1
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_6FFZI7RClZCxX18jLrsf",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb7wvRWhMwZJ/atphNq6FdoSyaP1ZwTkYbkoJ/c/ja1b1J5bDS8vV+xMWQ2SUk/"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n5. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n6. - Title: The Game Awards 2023: the winners, the news, the games \n Link: https://store.epicgames.com/en-US/news/the-game-awards-2023-the-winners-the-news-the-games\n Snippet: THE NOMINEES AND WINNERS ; The Last of Us · Best Narrative ; Cyberpunk 2077: Phantom Liberty · Best Art Direction ; Hi-Fi Rush · Best Score and Music ; Dead Space ...\n\n7. - Title: The Game Awards 2023 results: All the winners \n Link: https://www.pcgamer.com/the-game-awards-2023-results-all-the-winners/\n Snippet: Lee \"Faker\" Sang-Hyeok (League of Legends) · Mathieu \"ZywOo\" Herbaut (CS:GO) · Max \"Demon1\" Mazanov (Valorant) · Paco \"HyDra\" Rusiewiez (Call of ...\n\n8. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n9. - Title: Confira os vencedores do The Game Awards 2023 \n Link: https://jovemnerd.com.br/noticias/games/the-game-awards-2023-lista-vencedores\n Snippet: Jogo do Ano · Alan Wake 2 · Baldur's Gate 3 · Marvel's Spider-Man 2 · Resident Evil 4 · Super Mario Bros. Wonder · Zelda: Tears of the Kingdom ...\n\n10. - Title: All The Game Awards 2023 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2023-winners-revealed/2900-4977/\n Snippet: Lee “Faker” Sang-hyeok (League of Legends) · Mathieu “ZywOo” Herbaut (CS:GO) · Max “Demon1” Mazanov (Valorant) · Paco “HyDra” Rusiewiez (Call of ...\n\n",
+                "tool_call_id": "tool_search_6FFZI7RClZCxX18jLrsf",
+                "name": "search"
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ReFantazio, and ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n6. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n7. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n8. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: The best games of 2024, picked by NPR's staff · WINNER: Helldivers 2 · Call of Duty: Black Ops 6 · Super Mario Party Jamboree · Tekken 8 · Warhammer ...\n\n9. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n10. - Title: Every Winner From the 2024 Game Awards \n Link: https://www.vulture.com/article/game-awards-2024-winners.html\n Snippet: Here are all the winners and nominees from this year's Game Awards, streaming live on IGN. Game of the Year Astro Bot Balatro Black Myth: Wukong Elden Ring ...\n\n",
+                "tool_call_id": "tool_search_2Dtzj2gVjbLe5ZZr7ouP",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 2227,
+            "completion_tokens": 703,
+            "total_tokens": 2930,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_2",
+        "original_id": "game_awards_3",
+        "generation": 2,
+        "question": "list for me the winners of the game awards of 2023 and 2024",
+        "response": "Below are the winners for the primary categories of **The Game Awards** for 2023 and 2024.\n\n### **The Game Awards 2024**\n*Held on December 12, 2024*\n\n*   **Game of the Year:** *Astro Bot*\n*   **Best Game Direction:** *Astro Bot*\n*   **Best Narrative:** *Final Fantasy VII Rebirth*\n*   **Best Art Direction:** *Metaphor: ReFantazio*\n*   **Best Score and Music:** *Final Fantasy VII Rebirth*\n*   **Best Audio Design:** *Senua's Saga: Hellblade II*\n*   **Best Performance:** Melina Juergens (*Senua's Saga: Hellblade II*)\n*   **Games for Impact:** *Neva*\n*   **Best Ongoing Game:** *Cyberpunk 2077*\n*   **Best Indie Game:** *Balatro*\n*   **Best Debut Indie Game:** *Balatro*\n*   **Best Mobile Game:** *Balatro*\n*   **Best Community Support:** *Baldur’s Gate 3*\n*   **Best VR/AR Game:** *Batman: Arkham Shadow*\n*   **Best Action Game:** *Black Myth: Wukong*\n*   **Best Action/Adventure Game:** *Astro Bot*\n*   **Best RPG:** *Metaphor: ReFantazio*\n*   **Best Fighting Game:** *Tekken 8*\n*   **Best Family Game:** *Astro Bot*\n*   **Best Simulation/Strategy Game:** *Manor Lords*\n*   **Best Sports/Racing Game:** *F1 24*\n*   **Best Multiplayer:** *Helldivers 2*\n*   **Most Anticipated Game:** *Grand Theft Auto VI*\n\n---\n\n### **The Game Awards 2023**\n*Held on December 7, 2023*\n\n*   **Game of the Year:** *Baldur’s Gate 3*\n*   **Best Game Direction:** *Alan Wake 2*\n*   **Best Narrative:** *Alan Wake 2*\n*   **Best Art Direction:** *Alan Wake 2*\n*   **Best Score and Music:** *Final Fantasy XVI*\n*   **Best Audio Design:** *Hi-Fi Rush*\n*   **Best Performance:** Neil Newbon (*Baldur’s Gate 3*)\n*   **Games for Impact:** *Tchia*\n*   **Best Ongoing Game:** *Cyberpunk 2077*\n*   **Best Indie Game:** *Sea of Stars*\n*   **Best Debut Indie Game:** *Cocoon*\n*   **Best Mobile Game:** *Honkai: Star Rail*\n*   **Best Community Support:** *Baldur’s Gate 3*\n*   **Best VR/AR Game:** *Resident Evil Village VR Mode*\n*   **Best Action Game:** *Armored Core VI: Fires of Rubicon*\n*   **Best Action/Adventure Game:** *The Legend of Zelda: Tears of the Kingdom*\n*   **Best RPG:** *Baldur’s Gate 3*\n*   **Best Fighting Game:** *Street Fighter 6*\n*   **Best Family Game:** *Super Mario Bros. Wonder*\n*   **Best Simulation/Strategy Game:** *Pikmin 4*\n*   **Best Sports/Racing Game:** *Forza Motorsport*\n*   **Best Multiplayer:** *Baldur’s Gate 3*\n*   **Most Anticipated Game:** *Final Fantasy VII Rebirth*",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_KNaskdlFifNzFisyDs3l",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2023 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    },
+                    {
+                        "id": "tool_search_PDH4bWp4r1IQhls6OpGj",
+                        "function": {
+                            "arguments": "{\"query\":\"The Game Awards 2024 winners list\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 1
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_KNaskdlFifNzFisyDs3l",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "CiEBjz1rX/TD+uxsHbSNfMrWw6y5gAw2dxR79nu2JE0ulzE="
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2023 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2023\n Snippet: Final Fantasy XVI – Masayoshi Soken‡. Alan Wake 2 – Petri Alanko; Baldur's Gate 3 – Borislav Slavov; Hi-Fi Rush – Shuichi Kobori; The Legend of Zelda: Tears of ...\n\n2. - Title: The Game Awards 2023 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2023-winners-the-full-list\n Snippet: Game of the Year · Alan Wake 2 · Baldur's Gate 3 - WINNER · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n3. - Title: 2023 | Rewind \n Link: https://thegameawards.com/rewind/year-2023\n Snippet: Winners. Baldur's Gate 3. GAME OF THE YEAR. Baldur's Gate 3. Larian Studios. Alan Wake 2. BEST GAME DIRECTION. Alan Wake 2. Remedy Entertainment / Epic Games ...\n\n4. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n5. - Title: The Game Awards 2023: confira os vencedores do evento \n Link: https://www.adrenaline.com.br/games/confira-os-vencedores-do-the-game-awards-2023/\n Snippet: Melhor Direção de Jogo · Alan Wake 2 (vencedor) · Baldur's Gate 3 · Marvel's Spider-Man 2 · Super Mario Bros. Wonder · The Legend of Zelda: Tears of ...\n\n6. - Title: The Game Awards 2023 Winners: The Full List : r/pcgaming \n Link: https://www.reddit.com/r/pcgaming/comments/18dg3yu/the_game_awards_2023_winners_the_full_list/\n Snippet: The biggest takeaways: - BG3 won the most with 6 awards. - Alan Wake 2 was second at 3 awards. - Forza Motorsport was third at 2 awards. - No other game ...\n\n7. - Title: All The Game Awards 2023 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2023-winners-revealed/2900-4977/\n Snippet: Lee “Faker” Sang-hyeok (League of Legends) · Mathieu “ZywOo” Herbaut (CS:GO) · Max “Demon1” Mazanov (Valorant) · Paco “HyDra” Rusiewiez (Call of ...\n\n8. - Title: TODOS os VENCEDORES do The Game Awards 2023 \n Link: https://www.youtube.com/watch?v=fhRhgs5_EoE\n Snippet: Veja a lista e a nossa opinião dos melhores games de 2023. Gameplay de Fundo: https://www.youtube.com/c/NoHUDGameplays/featured ...\n\n9. - Title: The Game Awards 2023 \n Link: https://thegameawards.fandom.com/wiki/The_Game_Awards_2023\n Snippet: The ceremony featured numerous game announcements and awarded winners across 32 categories. Baldur's Gate 3 won the most awards, and also received the Game of\n\n10. - Title: The Game Awards 2023 Winners List \n Link: https://www.eurogamer.net/game-awards-2023-winners-list\n Snippet: Game of the Year · Baldur's Gate 3 (Winner) · Alan Wake 2 · Marvel's Spider-Man 2 · Resident Evil 4 Remake · Super Mario Bros. Wonder · The ...\n\n",
+                "tool_call_id": "tool_search_KNaskdlFifNzFisyDs3l",
+                "name": "search"
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: The Game Awards 2024 Winners: The Full List \n Link: https://www.ign.com/articles/the-game-awards-2024-winners-the-full-list\n Snippet: Six games were nominated for the top prize of Game of the Year: Astro Bot, Balatro, Black Myth: Wukong, Final Fantasy VII Rebirth, Metaphor: ...\n\n2. - Title: The Game Awards 2024 \n Link: https://en.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Multiple awards​​ Astro Bot led the show with four wins (and its publisher Sony Interactive Entertainment with six), followed by Balatro (Playstack) and Metaphor ...\n\n3. - Title: Game of the Year | Winners \n Link: https://thegameawards.com/winners/game-of-the-year\n Snippet: Game of the Year · Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: ...\n\n4. - Title: 2024 | Rewind \n Link: https://thegameawards.com/rewind/year-2024\n Snippet: Okami, Arcane and The Witcher 4​​ Astro Bot wins Game of the Year, Capcom reveals a new Okami sequel, and performances by Snoop Dogg, Twenty One Pilots and more.\n\n5. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n6. - Title: Here are all The Game Awards 2024 winners \n Link: https://www.polygon.com/awards/495868/2024-award-winners-game-year/\n Snippet: Here are all The Game Awards 2024 winners ; WINNER: Astro Bot · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy 7 ...\n\n7. - Title: The Game Awards 2024 - All Winners \n Link: https://www.youtube.com/watch?v=mAx3Zk2YPsA\n Snippet: The Game Awards 2024 - All Winners - In this video, I put together all the winners from The Game Awards 2024 into one edited video.\n\n8. - Title: The 2024 Game Awards: All winners and biggest reveals \n Link: https://www.npr.org/2024/12/13/g-s1-38032/2024-game-awards-winners-reveals-astro-bot\n Snippet: The best games of 2024, picked by NPR's staff · WINNER: Tekken 8 · Granblue Fantasy Versus: Rising · Dragon Ball: Sparking! ZERO · Marvel vs Capcom ...\n\n9. - Title: All The Game Awards 2024 Winners Revealed \n Link: https://www.gamespot.com/gallery/all-the-game-awards-2024-winners-revealed/2900-5956/\n Snippet: Sony's Astro Bot won the overall Game of the Year award. The other nominees included Balatro, Black Myth: Wukong, Elden Ring: Shadow of the Erdtree, Final ...\n\n10. - Title: Every Winner From the 2024 Game Awards \n Link: https://www.vulture.com/article/game-awards-2024-winners.html\n Snippet: Here are all the winners and nominees from this year's Game Awards, streaming live on IGN. Game of the Year Astro Bot Balatro Black Myth: Wukong Elden Ring ...\n\n",
+                "tool_call_id": "tool_search_PDH4bWp4r1IQhls6OpGj",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 2075,
+            "completion_tokens": 822,
+            "total_tokens": 2897,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+]

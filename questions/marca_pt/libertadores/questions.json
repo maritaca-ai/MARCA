@@ -1,0 +1,37 @@
+[
+    {
+        "id": "lib1_1",
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2025?",
+        "checklist": [
+            "libertadores_2025_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_2",
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2023?",
+        "checklist": [
+            "libertadores_2023_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_3",
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2021?",
+        "checklist": [
+            "libertadores_2021_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_4",
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram para todas as tres edições?",
+        "checklist": [
+            "libertadores_classified_2025_2023_2021"
+        ]
+    },
+    {
+        "id": "lib1_5",
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram apenas uma vez entre os 3 anos? cite cada time e o ano em que ele se classificou",
+        "checklist": [
+            "libertadores_classified_only_once_in_2025_2023_2021"
+        ]
+    }
+]

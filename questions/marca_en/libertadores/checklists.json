@@ -1,0 +1,45 @@
+{
+    "libertadores_2025_brazilian_teams": [
+        "The answer must mention that Botafogo qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Flamengo qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Palmeiras qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Fortaleza qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Internacional qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that São Paulo qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Corinthians qualified for the 2025 Copa Libertadores.",
+        "The answer must mention that Bahia qualified for the 2025 Copa Libertadores."
+    ],
+
+    "libertadores_2023_brazilian_teams_details": [
+        "The answer must mention that Flamengo qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Palmeiras qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Internacional qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Fluminense qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Corinthians qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Athletico Paranaense qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Atlético Mineiro qualified for the 2023 Copa Libertadores.",
+        "The answer must mention that Fortaleza qualified for the 2023 Copa Libertadores."
+    ],
+    "libertadores_2021_brazilian_teams_details": [
+        "The answer must mention that Palmeiras qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Flamengo qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Internacional qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Atlético Mineiro qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that São Paulo qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Fluminense qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Grêmio qualified for the 2021 Copa Libertadores.",
+        "The answer must mention that Santos qualified for the 2021 Copa Libertadores."
+    ],
+    "libertadores_classified_2025_2023_2021": [
+        "The answer must mention that Palmeiras qualified for the Copa Libertadores in 2025, 2023 and 2021.",
+        "The answer must mention that Flamengo qualified for the Copa Libertadores in 2025, 2023 and 2021.",
+        "The answer must mention that Internacional qualified for the Copa Libertadores in 2025, 2023 and 2021."
+    ],
+    "libertadores_classified_only_once_in_2025_2023_2021": [
+        "The answer must mention that Botafogo qualified only once across those three editions, qualifying only in 2025.",
+        "The answer must mention that Bahia qualified only once across those three editions, qualifying only in 2025.",
+        "The answer must mention that Athletico Paranaense qualified only once across those three editions, qualifying only in 2023.",
+        "The answer must mention that Grêmio qualified only once across those three editions, qualifying only in 2021.",
+        "The answer must mention that Santos qualified only once across those three editions, qualifying only in 2021."
+    ]
+}

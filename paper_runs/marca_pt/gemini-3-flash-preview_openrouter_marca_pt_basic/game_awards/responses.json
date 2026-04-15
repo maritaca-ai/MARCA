@@ -1,0 +1,180 @@
+[
+    {
+        "id": "game_awards_1_1",
+        "original_id": "game_awards_1",
+        "generation": 1,
+        "question": "Liste para mim os vencedores do The Game Awards 2023.",
+        "response": "O **The Game Awards 2023** aconteceu em 7 de dezembro de 2023. O grande vencedor da noite foi **Baldur's Gate 3**, que levou 6 prêmios, incluindo o de Jogo do Ano.\n\nAqui está a lista completa dos vencedores em todas as categorias:\n\n### Categorias Principais\n*   **Jogo do Ano (GOTY):** Baldur’s Gate 3\n*   **Melhor Direção de Jogo:** Alan Wake 2\n*   **Melhor Narrativa:** Alan Wake 2\n*   **Melhor Direção de Arte:** Alan Wake 2\n*   **Melhor Trilha Sonora e Música:** Final Fantasy XVI\n*   **Melhor Design de Áudio:** Hi-Fi RUSH\n*   **Melhor Atuação:** Neil Newbon (Astarion em Baldur’s Gate 3)\n*   **Jogos de Impacto:** Tchia\n*   **Melhor Jogo Contínuo (Live Service):** Cyberpunk 2077\n*   **Melhor Suporte à Comunidade:** Baldur’s Gate 3\n*   **Melhor Jogo Independente:** Sea of Stars\n*   **Melhor Jogo Independente de Estreia:** Cocoon\n*   **Melhor Jogo Mobile:** Honkai: Star Rail\n*   **Melhor Jogo de VR/AR:** Resident Evil Village VR Mode\n*   **Melhor Jogo de Ação:** Armored Core VI: Fires of Rubicon\n*   **Melhor Jogo de Ação/Aventura:** The Legend of Zelda: Tears of the Kingdom\n*   **Melhor RPG:** Baldur’s Gate 3\n*   **Melhor Jogo de Luta:** Street Fighter 6\n*   **Melhor Jogo para Família:** Super Mario Bros. Wonder\n*   **Melhor Jogo de Simulação/Estratégia:** Pikmin 4\n*   **Melhor Jogo de Esporte/Corrida:** Forza Motorsport\n*   **Melhor Multiplayer:** Baldur’s Gate 3\n*   **Melhor Adaptação:** The Last of Us (Série da HBO)\n*   **Jogo Mais Aguardado:** Final Fantasy VII Rebirth\n*   **Inovação em Acessibilidade:** Forza Motorsport\n*   **Escolha do Público (Player’s Voice):** Baldur’s Gate 3\n\n### Categorias de eSports e Criadores\n*   **Melhor Jogo de eSports:** Valorant\n*   **Melhor Atleta de eSports:** Lee “Faker” Sang-hyeok (League of Legends)\n*   **Melhor Time de eSports:** JD Gaming (League of Legends)\n*   **Melhor Treinador de eSports:** Danny “zonic” Sørensen (Counter-Strike)\n*   **Melhor Evento de eSports:** 2023 League of Legends World Championship\n*   **Criador de Conteúdo do Ano:** Ironmouse",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 147,
+            "completion_tokens": 659,
+            "total_tokens": 806,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_1_3",
+        "original_id": "game_awards_1",
+        "generation": 3,
+        "question": "Liste para mim os vencedores do The Game Awards 2023.",
+        "response": "O **The Game Awards 2023** aconteceu no dia 7 de dezembro de 2023. O grande vencedor da noite foi **Baldur's Gate 3**, que levou 6 prêmios, incluindo o de Jogo do Ano.\n\nAqui está a lista completa dos vencedores em todas as categorias:\n\n### Categorias Principais\n*   **Jogo do Ano (Game of the Year):** Baldur’s Gate 3\n*   **Melhor Direção:** Alan Wake 2\n*   **Melhor Narrativa:** Alan Wake 2\n*   **Melhor Direção de Arte:** Alan Wake 2\n*   **Melhor Trilha Sonora e Música:** Final Fantasy XVI\n*   **Melhor Design de Áudio:** Hi-Fi RUSH\n*   **Melhor Atuação:** Neil Newbon (Astarion em Baldur’s Gate 3)\n*   **Inovação em Acessibilidade:** Forza Motorsport\n*   **Jogos de Impacto:** Tchia\n\n### Categorias por Gênero\n*   **Melhor Jogo Contínuo (Ongoing):** Cyberpunk 2077\n*   **Melhor Suporte à Comunidade:** Baldur’s Gate 3\n*   **Melhor Jogo Independente:** Sea of Stars\n*   **Melhor Jogo Independente de Estreia:** Cocoon\n*   **Melhor Jogo Mobile:** Honkai: Star Rail\n*   **Melhor Jogo de VR/AR:** Resident Evil Village VR Mode\n*   **Melhor Jogo de Ação:** Armored Core VI: Fires of Rubicon\n*   **Melhor Jogo de Aventura/Ação:** The Legend of Zelda: Tears of the Kingdom\n*   **Melhor RPG:** Baldur’s Gate 3\n*   **Melhor Jogo de Luta:** Street Fighter 6\n*   **Melhor Jogo para Família:** Super Mario Bros. Wonder\n*   **Melhor Jogo de Estratégia/Simulação:** Pikmin 4\n*   **Melhor Jogo de Esporte/Corrida:** Forza Motorsport\n*   **Melhor Jogo Multiplayer:** Baldur’s Gate 3\n\n### Outras Categorias\n*   **Escolha do Público (Player’s Voice):** Baldur’s Gate 3\n*   **Jogo Mais Aguardado:** Final Fantasy VII Rebirth\n*   **Melhor Adaptação:** The Last of Us (Série da HBO)\n*   **Criador de Conteúdo do Ano:** Ironmouse\n\n### E-sports\n*   **Melhor Jogo de eSports:** Valorant\n*   **Melhor Atleta de eSports:** Lee “Faker” Sang-hyeok (League of Legends)\n*   **Melhor Time de eSports:** JD Gaming (League of Legends)\n*   **Melhor Treinador de eSports:** Danny “zonic” Sorensen (CS:GO)\n*   **Melhor Evento de eSports:** 2023 League of Legends World Championship",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 147,
+            "completion_tokens": 669,
+            "total_tokens": 816,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_1_2",
+        "original_id": "game_awards_1",
+        "generation": 2,
+        "question": "Liste para mim os vencedores do The Game Awards 2023.",
+        "response": "O **The Game Awards 2023** aconteceu em dezembro de 2023 e o grande destaque da noite foi *Baldur's Gate 3*, que levou o prêmio principal e várias outras categorias.\n\nAqui está a lista completa dos vencedores por categoria:\n\n### Principais Categorias\n*   **Jogo do Ano (Game of the Year):** *Baldur’s Gate 3*\n*   **Melhor Direção de Jogo:** *Alan Wake 2*\n*   **Melhor Narrativa:** *Alan Wake 2*\n*   **Melhor Direção de Arte:** *Alan Wake 2*\n*   **Melhor Trilha Sonora e Música:** *Final Fantasy XVI*\n*   **Melhor Design de Áudio:** *Hi-Fi RUSH*\n*   **Melhor Atuação:** Neil Newbon (Astarion em *Baldur’s Gate 3*)\n*   **Inovação em Acessibilidade:** *Forza Motorsport*\n*   **Jogo por Impacto:** *Tchia*\n\n### Categorias por Gênero e Tipo\n*   **Melhor Jogo Contínuo (Ongoing Game):** *Cyberpunk 2077*\n*   **Melhor Suporte à Comunidade:** *Destiny 2*\n*   **Melhor Jogo Independente:** *Sea of Stars*\n*   **Melhor Jogo Independente de Estreia:** *Cocoon*\n*   **Melhor Jogo Mobile:** *Honkai: Star Rail*\n*   **Melhor Jogo de VR/AR:** *Resident Evil Village VR Mode*\n*   **Melhor Jogo de Ação:** *Armored Core VI: Fires of Rubicon*\n*   **Melhor Jogo de Ação/Aventura:** *The Legend of Zelda: Tears of the Kingdom*\n*   **Melhor RPG:** *Baldur’s Gate 3*\n*   **Melhor Jogo de Luta:** *Street Fighter 6*\n*   **Melhor Jogo para Família:** *Super Mario Bros. Wonder*\n*   **Melhor Jogo de Simulação/Estratégia:** *Pikmin 4*\n*   **Melhor Jogo de Esporte/Corrida:** *Forza Motorsport*\n*   **Melhor Jogo Multiplayer:** *Baldur’s Gate 3*\n\n### Categorias de Votação Popular e Adaptação\n*   **Escolha do Público (Player’s Voice):** *Baldur’s Gate 3*\n*   **Melhor Adaptação:** *The Last of Us* (HBO)\n*   **Jogo Mais Aguardado:** *Final Fantasy VII Rebirth*\n\n### Categorias de Conteúdo e eSports\n*   **Criador de Conteúdo do Ano:** Ironmouse\n*   **Melhor Jogo de eSports:** *Valorant*\n*   **Melhor Atleta de eSports:** Lee “Faker” Sang-hyeok (*League of Legends*)\n*   **Melhor Equipe de eSports:** JD Gaming (*League of Legends*)\n*   **Melhor Treinador de eSports:** Danny “zonic” Sorensen\n*   **Melhor Evento de eSports:** 2023 League of Legends World Championship\n\n---\n**Resumo de destaques:**\n*   **Baldur's Gate 3:** 6 prêmios (incluindo Jogo do Ano).\n*   **Alan Wake 2:** 3 prêmios.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 147,
+            "completion_tokens": 772,
+            "total_tokens": 919,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_1",
+        "original_id": "game_awards_2",
+        "generation": 1,
+        "question": "Liste para mim os vencedores do The Game Awards 2024.",
+        "response": "O **The Game Awards 2024** aconteceu na noite de 12 de dezembro de 2024. O grande vencedor da noite foi **Elden Ring: Shadow of the Erdtree**, que fez história ao ser a primeira expansão (DLC) a vencer a categoria principal de Jogo do Ano.\n\nAqui está a lista dos vencedores nas principais categorias:\n\n### Categorias Principais\n*   **Jogo do Ano (Game of the Year):** Elden Ring: Shadow of the Erdtree\n*   **Melhor Direção de Jogo:** Astro Bot\n*   **Melhor Narrativa:** Final Fantasy VII Rebirth\n*   **Melhor Direção de Arte:** Metaphor: ReFantazio\n*   **Melhor Trilha Sonora e Música:** Final Fantasy VII Rebirth\n*   **Melhor Design de Áudio:** Senua's Saga: Hellblade II\n*   **Melhor Atuação:** Luke Roberts (como James Sunderland em *Silent Hill 2*)\n*   **Melhor Jogo Independente:** Balatro\n*   **Melhor Jogo Mobile:** Balatro\n\n### Categorias por Gênero\n*   **Melhor Jogo de Ação:** Black Myth: Wukong\n*   **Melhor Jogo de Ação/Aventura:** Astro Bot\n*   **Melhor RPG:** Final Fantasy VII Rebirth\n*   **Melhor Jogo de Luta:** Tekken 8\n*   **Melhor Jogo para a Família:** Astro Bot\n*   **Melhor Jogo de Estratégia/Simulação:** Manor Lords\n*   **Melhor Jogo de Esporte/Corrida:** F1 24\n\n### Outras Categorias Importantes\n*   **Melhor Jogo Contínuo (Ongoing):** Cyberpunk 2077\n*   **Melhor Suporte à Comunidade:** Baldur's Gate 3\n*   **Inovação em Acessibilidade:** Prince of Persia: The Lost Crown\n*   **Jogo de Maior Impacto:** Tales of Kenzera: ZAU\n*   **Melhor Estreia Independente:** Balatro\n*   **Melhor Jogo de VR/AR:** Batman: Arkham Shadow\n*   **Melhor Adaptação:** Fallout (Série da Amazon Prime Video)\n*   **Jogo Mais Aguardado:** Grand Theft Auto VI (GTA VI)\n*   **Voz dos Fãs (Players' Voice):** Black Myth: Wukong\n\n**Destaques:**\n*   **Astro Bot**, **Final Fantasy VII Rebirth** e **Balatro** foram os maiores coletores de troféus ao lado de *Elden Ring*.\n*   A vitória de **Black Myth: Wukong** no \"Players' Voice\" confirmou a força da comunidade asiática e o sucesso comercial do título.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 147,
+            "completion_tokens": 620,
+            "total_tokens": 767,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_2",
+        "original_id": "game_awards_2",
+        "generation": 2,
+        "question": "Liste para mim os vencedores do The Game Awards 2024.",
+        "response": "O **The Game Awards 2024** aconteceu na noite de 12 de dezembro de 2024. O grande vencedor da noite foi **Elden Ring: Shadow of the Erdtree**, que fez história ao ser a primeira expansão (DLC) a vencer a categoria principal de Jogo do Ano.\n\nAqui está a lista dos vencedores das principais categorias:\n\n### Categorias Principais\n*   **Jogo do Ano (Game of the Year):** Elden Ring: Shadow of the Erdtree\n*   **Melhor Direção:** Astro Bot\n*   **Melhor Narrativa:** Final Fantasy VII Rebirth\n*   **Melhor Direção de Arte:** Metaphor: ReFantazio\n*   **Melhor Trilha Sonora e Música:** Final Fantasy VII Rebirth\n*   **Melhor Design de Áudio:** Senua’s Saga: Hellblade II\n*   **Melhor Atuação:** Briana White (Aerith Gainsborough em *Final Fantasy VII Rebirth*)\n*   **Jogo Mais Aguardado:** Grand Theft Auto VI (GTA VI)\n\n### Categorias por Gênero e Estilo\n*   **Melhor Jogo Independente:** Animal Well\n*   **Melhor Jogo de Estreia Independente:** Balatro\n*   **Melhor Jogo Mobile:** Zenless Zone Zero\n*   **Melhor Jogo de VR/AR:** Batman: Arkham Shadow\n*   **Melhor Jogo de Ação:** Black Myth: Wukong\n*   **Melhor Jogo de Ação/Aventura:** Astro Bot\n*   **Melhor RPG:** Metaphor: ReFantazio\n*   **Melhor Jogo de Luta:** Tekken 8\n*   **Melhor Jogo para a Família:** Astro Bot\n*   **Melhor Jogo de Simulação/Estratégia:** Frostpunk 2\n*   **Melhor Jogo de Esporte/Corrida:** F1 24\n*   **Melhor Multiplayer:** Helldivers 2\n\n### Outras Categorias Importantes\n*   **Melhor Suporte à Comunidade:** Baldur’s Gate 3\n*   **Jogo de Impacto:** Neva\n*   **Melhor Jogo Contínuo (Live Service):** Cyberpunk 2077\n*   **Inovação em Acessibilidade:** Prince of Persia: The Lost Crown\n*   **Melhor Adaptação:** Fallout (Série da Amazon Prime Video)\n*   **Criador de Conteúdo do Ano:** Usada Pekora\n*   **Melhor Jogo de eSports:** League of Legends\n\n**Destaques:**\n*   **Astro Bot** e **Final Fantasy VII Rebirth** foram os maiores vencedores em número de estatuetas (empatados com a expansão de Elden Ring em importância).\n*   A vitória de **Shadow of the Erdtree** gerou debates por ser um conteúdo adicional, mas consolidou a FromSoftware como uma das desenvolvedoras mais premiadas da história do evento.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 147,
+            "completion_tokens": 658,
+            "total_tokens": 805,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_1",
+        "original_id": "game_awards_3",
+        "generation": 1,
+        "question": "Liste para mim os vencedores do The Game Awards de 2023 e 2024.",
+        "response": "Abaixo estão os vencedores das principais categorias do **The Game Awards** dos anos de 2023 e 2024.\n\nVale lembrar que o evento de **2024** aconteceu em 12 de dezembro, celebrando os 10 anos da premiação.\n\n---\n\n### **Vencedores - The Game Awards 2024**\n*   **Jogo do Ano (Game of the Year):** Elden Ring: Shadow of the Erdtree\n*   **Melhor Direção:** Astro Bot\n*   **Melhor Narrativa:** Final Fantasy VII Rebirth\n*   **Melhor Direção de Arte:** Metaphor: ReFantazio\n*   **Melhor Trilha Sonora e Música:** Final Fantasy VII Rebirth\n*   **Melhor Design de Áudio:** Senua’s Saga: Hellblade II\n*   **Melhor Atuação:** Briana White (Aerith em *Final Fantasy VII Rebirth*)\n*   **Melhor Jogo Independente:** Balatro\n*   **Melhor Jogo Mobile:** Balatro\n*   **Melhor Suporte à Comunidade:** Baldur’s Gate 3\n*   **Melhor Jogo de Ação:** Black Myth: Wukong\n*   **Melhor Jogo de Ação/Aventura:** Astro Bot\n*   **Melhor RPG:** Metaphor: ReFantazio\n*   **Melhor Jogo de Luta:** Tekken 8\n*   **Melhor Jogo para a Família:** Astro Bot\n*   **Melhor Jogo de Estratégia/Simulação:** Kunitsu-Gami: Path of the Goddess\n*   **Melhor Jogo de Esporte/Corrida:** F1 24\n*   **Melhor Multiplayer:** Helldivers 2\n*   **Jogo Mais Aguardado:** Grand Theft Auto VI (GTA VI)\n\n---\n\n### **Vencedores - The Game Awards 2023**\n*   **Jogo do Ano (Game of the Year):** Baldur’s Gate 3\n*   **Melhor Direção:** Alan Wake 2\n*   **Melhor Narrativa:** Alan Wake 2\n*   **Melhor Direção de Arte:** Alan Wake 2\n*   **Melhor Trilha Sonora e Música:** Final Fantasy XVI\n*   **Melhor Design de Áudio:** Hi-Fi RUSH\n*   **Melhor Atuação:** Neil Newbon (Astarion em *Baldur’s Gate 3*)\n*   **Melhor Jogo Independente:** Sea of Stars\n*   **Melhor Jogo Mobile:** Honkai: Star Rail\n*   **Melhor Suporte à Comunidade:** Destiny 2\n*   **Melhor Jogo de Ação:** Armored Core VI: Fires of Rubicon\n*   **Melhor Jogo de Ação/Aventura:** The Legend of Zelda: Tears of the Kingdom\n*   **Melhor RPG:** Baldur’s Gate 3\n*   **Melhor Jogo de Luta:** Street Fighter 6\n*   **Melhor Jogo para a Família:** Super Mario Bros. Wonder\n*   **Melhor Jogo de Estratégia/Simulação:** Pikmin 4\n*   **Melhor Jogo de Esporte/Corrida:** Forza Motorsport\n*   **Melhor Multiplayer:** Baldur’s Gate 3\n*   **Melhor Adaptação:** The Last of Us (Série HBO)\n\n---\n\n### **Destaques Rápidos:**\n*   Em **2023**, o grande vencedor foi **Baldur's Gate 3**, levando 6 prêmios no total.\n*   Em **2024**, houve uma polêmica histórica com a vitória de **Shadow of the Erdtree** (uma expansão/DLC) como Jogo do Ano, além do sucesso massivo de **Astro Bot** e **Final Fantasy VII Rebirth**.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 154,
+            "completion_tokens": 857,
+            "total_tokens": 1011,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_2_3",
+        "original_id": "game_awards_2",
+        "generation": 3,
+        "question": "Liste para mim os vencedores do The Game Awards 2024.",
+        "response": "O **The Game Awards 2024** aconteceu e consagrou **Astro Bot** como o grande vencedor da noite, levando o prêmio de Jogo do Ano (GOTY).\n\nAqui está a lista dos vencedores nas principais categorias:\n\n### **Principais Categorias**\n*   **Jogo do Ano (GOTY):** *Astro Bot*\n*   **Melhor Direção de Jogo:** *Astro Bot*\n*   **Melhor Narrativa:** *Final Fantasy VII Rebirth*\n*   **Melhor Direção de Arte:** *Metaphor: ReFantazio*\n*   **Melhor Trilha Sonora e Música:** *Final Fantasy VII Rebirth*\n*   **Melhor Design de Áudio:** *Senua's Saga: Hellblade II*\n*   **Melhor Atuação:** Briana White (Aerith em *Final Fantasy VII Rebirth*)\n*   **Inovação em Acessibilidade:** *Prince of Persia: The Lost Crown*\n*   **Melhor Jogo de Impacto:** *Neva*\n\n### **Categorias por Gênero**\n*   **Melhor Jogo Contínuo (Ongoing):** *Final Fantasy XIV*\n*   **Melhor Suporte à Comunidade:** *No Man's Sky*\n*   **Melhor Jogo Independente:** *Balatro*\n*   **Melhor Jogo Independente de Estreia:** *Balatro*\n*   **Melhor Jogo Mobile:** *Balatro*\n*   **Melhor Jogo de VR/AR:** *Batman: Arkham Shadow*\n*   **Melhor Jogo de Ação:** *Black Myth: Wukong*\n*   **Melhor Jogo de Ação/Aventura:** *Astro Bot*\n*   **Melhor RPG:** *Metaphor: ReFantazio*\n*   **Melhor Jogo de Luta:** *Tekken 8*\n*   **Melhor Jogo de Família:** *Astro Bot*\n*   **Melhor Jogo de Simulação/Estratégia:** *Frostpunk 2*\n*   **Melhor Jogo de Esporte/Corrida:** *F1 24*\n*   **Melhor Multiplayer:** *Helldivers 2*\n\n### **Outras Premiações**\n*   **Melhor Adaptação:** *Arcane* (2ª Temporada)\n*   **Jogo Mais Aguardado:** *Grand Theft Auto VI (GTA VI)*\n*   **Criador de Conteúdo do Ano:** Valkyrae\n*   **Melhor Jogo de eSports:** *League of Legends*\n*   **Melhor Atleta de eSports:** Faker\n\n**Destaques:**\n*   **Astro Bot** foi o maior vencedor, consolidando sua popularidade e qualidade técnica.\n*   **Balatro**, o jogo de pôquer \"roguelike\", surpreendeu ao vencer três categorias, incluindo melhor jogo independente e mobile.\n*   **Final Fantasy VII Rebirth** também se destacou, levando prêmios importantes de performance e música.",
+        "conversation_generated": [
+            {
+                "content": "",
+                "refusal": null,
+                "role": "assistant",
+                "annotations": [],
+                "tool_calls": [
+                    {
+                        "id": "tool_search_bvP9jgYZlK2fVUDd1UxT",
+                        "function": {
+                            "arguments": "{\"query\":\"vencedores The Game Awards 2024 lista completa\"}",
+                            "name": "search"
+                        },
+                        "type": "function",
+                        "index": 0
+                    }
+                ],
+                "reasoning": null,
+                "reasoning_details": [
+                    {
+                        "id": "tool_search_bvP9jgYZlK2fVUDd1UxT",
+                        "format": "google-gemini-v1",
+                        "index": 0,
+                        "type": "reasoning.encrypted",
+                        "data": "EjQKMgG+Pvb78JR7IGjgX940L+7O45ltiv8b/dTlcMvSut0j+ns6vf7gdhHSb6PACVhkYWgC"
+                    }
+                ]
+            },
+            {
+                "role": "tool",
+                "content": "1. - Title: Astro GOTY! Confira a lista com todos os vencedores do ... \n Link: https://br.ign.com/the-game-awards/133620/news/astro-bot-balatro-black-myth-wukong-confira-todos-os-vencedores-do-the-game-awards-2024\n Snippet: Melhor Direção de Jogo · Metaphor ReFantazio · Black Myth: Wukong · Astro Bot · Balatro · Elden Ring: Shadow of the Erdtree · Final Fantasy 7 Rebirth ...\n\n2. - Title: Jogo do Ano | Vencedores \n Link: https://translate.google.com/translate?u=https://thegameawards.com/winners/game-of-the-year&hl=pt&sl=en&tl=pt&client=srp\n Snippet: Jogo do Ano · Clair Obscur: Expedição 33 · Death Stranding 2: Na Praia · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: Deliverance II.Clair Obscur: Expedition 33 · Death Stranding 2: On The Beach · Donkey Kong Bananza · Hades II · Hollow Knight: Silksong · Kingdom Come: Deliverance II.\n\n3. - Title: The Game Awards 2024 \n Link: https://pt.wikipedia.org/wiki/The_Game_Awards_2024\n Snippet: Destiny 2: The Final Shape – Bungie · Diablo IV: Vessel of Hatred – Blizzard Entertainment · Final Fantasy XIV: Dawntrail – Square Enix · Fortnite – Epic Games.\n\n4. - Title: Astro Bot vence jogo do ano no The Game Awards 2024 \n Link: https://www.omelete.com.br/the-game-awards/the-game-awards-2024-vencedores-ao-vivo-cobertura\n Snippet: O The Game Awards 2024 consagrou Astro Bot como jogo do ano em 2024. O game venceu ainda as categorias melhor direção, melhor jogo de ação e ...\n\n5. - Title: Astro Bot é eleito Jogo do Ano no TGA 2024; veja lista de ... \n Link: https://jovemnerd.com.br/noticias/games/the-game-awards-2024-vencedores\n Snippet: Melhor Direção · ASTRO BOT · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy VII Rebirth · Metaphor: ReFantazio ...\n\n6. - Title: The Game Awards 2024: Astro Bot leva Jogo do Ano \n Link: https://www.cnnbrasil.com.br/tecnologia/the-game-awards-2024-astro-bot-leva-jogo-do-ano-veja-lista-completa/\n Snippet: Melhor Direção · Astro Bot (vencedor) · Balatro · Black Myth: Wukong · Elden Ring Shadow of the Erdtree · Final Fantasy VII Rebirth · Metaphor: ...\n\n7. - Title: Todos os VENCEDORES do The Game Awards 2024 \n Link: https://www.youtube.com/watch?v=FqvR1hl1xGk\n Snippet: Confira nossa opinião sobre os vencedores do The Game Awards 2024 Gameplay de Fundo: / nohudgameplays ...\n\n8. - Title: Winners \n Link: https://thegameawards.com/winners\n Snippet: View all winners for The Game Awards. Vote for your favorite games and creators.\n\n9. - Title: The Game Awards 2024: Lista Completa de Vencedores \n Link: https://www.folhavitoria.com.br/games/the-game-awards-2024-lista-completa-de-vencedores/\n Snippet: Entre os destaques da premiação, o grande vencedor foi Astro Bot, que conquistou o prêmio de Jogo do Ano e outras três categorias. Outro ...\n\n10. - Title: TGA 2024: Veja lista de indicados e vencedores do Game ... \n Link: https://www.tecmundo.com.br/voxel/500250-tga-2024-veja-lista-de-indicados-e-vencedores-do-game-awards.htm\n Snippet: ASTRO BOT (Team Asobi/SIE) · Call of Duty: Black Ops 6 (Treyarch/Raven/Activision/Xbox) · Final Fantasy VII Rebirth (Square Enix) · Senua's Saga: ...\n\n",
+                "tool_call_id": "tool_search_bvP9jgYZlK2fVUDd1UxT",
+                "name": "search"
+            }
+        ],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 1386,
+            "completion_tokens": 701,
+            "total_tokens": 2087,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_2",
+        "original_id": "game_awards_3",
+        "generation": 2,
+        "question": "Liste para mim os vencedores do The Game Awards de 2023 e 2024.",
+        "response": "Abaixo estão os vencedores das principais categorias do **The Game Awards** de 2023 e 2024.\n\nVale lembrar que o **The Game Awards 2024** aconteceu recentemente (12 de dezembro de 2024), consagrando *Final Fantasy VII Rebirth* como o grande nome da noite.\n\n---\n\n### **Vencedores The Game Awards 2024**\nO grande destaque foi a Square Enix, com a sequência do remake de FFVII levando o prêmio principal.\n\n*   **Jogo do Ano (GOTY):** *Final Fantasy VII Rebirth*\n*   **Melhor Direção:** *Final Fantasy VII Rebirth*\n*   **Melhor Narrativa:** *Final Fantasy VII Rebirth*\n*   **Melhor Direção de Arte:** *Metaphor: ReFantazio*\n*   **Melhor Trilha e Música:** *Final Fantasy VII Rebirth*\n*   **Melhor Design de Som:** *Senua's Saga: Hellblade II*\n*   **Melhor Atuação:** Briana White (Aerith em *FFVII Rebirth*)\n*   **Melhor Jogo Independente:** *Balatro*\n*   **Melhor Jogo Mobile:** *Balatro*\n*   **Melhor Jogo de Ação:** *Black Myth: Wukong*\n*   **Melhor Jogo de Ação/Aventura:** *The Legend of Zelda: Echoes of Wisdom*\n*   **Melhor RPG:** *Metaphor: ReFantazio*\n*   **Melhor Jogo de Luta:** *Tekken 8*\n*   **Melhor Jogo de Estratégia/Simulação:** *Frostpunk 2*\n*   **Melhor Jogo de Esporte/Corrida:** *F1 24*\n*   **Melhor Multiplayer:** *Helldivers 2*\n*   **Melhor Adaptação:** *Arcane* (Segunda Temporada)\n*   **Jogo Mais Aguardado:** *Grand Theft Auto VI (GTA VI)*\n\n---\n\n### **Vencedores The Game Awards 2023**\nO ano de 2023 foi dominado por *Baldur's Gate 3*, que quebrou recordes de premiações.\n\n*   **Jogo do Ano (GOTY):** *Baldur’s Gate 3*\n*   **Melhor Direção:** *Alan Wake 2*\n*   **Melhor Narrativa:** *Alan Wake 2*\n*   **Melhor Direção de Arte:** *Alan Wake 2*\n*   **Melhor Trilha e Música:** *Final Fantasy XVI*\n*   **Melhor Design de Som:** *Hi-Fi RUSH*\n*   **Melhor Atuação:** Neil Newbon (Astarion em *Baldur’s Gate 3*)\n*   **Melhor Jogo Independente:** *Sea of Stars*\n*   **Melhor Jogo Mobile:** *Honkai: Star Rail*\n*   **Melhor Jogo de Ação:** *Armored Core VI: Fires of Rubicon*\n*   **Melhor Jogo de Ação/Aventura:** *The Legend of Zelda: Tears of the Kingdom*\n*   **Melhor RPG:** *Baldur’s Gate 3*\n*   **Melhor Jogo de Luta:** *Street Fighter 6*\n*   **Melhor Jogo de Estratégia/Simulação:** *Pikmin 4*\n*   **Melhor Jogo de Esporte/Corrida:** *Forza Motorsport*\n*   **Melhor Multiplayer:** *Baldur’s Gate 3*\n*   **Melhor Adaptação:** *The Last of Us* (Série da HBO)\n*   **Jogo Mais Aguardado:** *Final Fantasy VII Rebirth*\n\n---\n\n### **Resumo Comparativo (GOTY)**\n| Ano | Vencedor (GOTY) | Desenvolvedora |\n| :--- | :--- | :--- |\n| **2023** | *Baldur's Gate 3* | Larian Studios |\n| **2024** | *Final Fantasy VII Rebirth* | Square Enix |",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 154,
+            "completion_tokens": 929,
+            "total_tokens": 1083,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "game_awards_3_3",
+        "original_id": "game_awards_3",
+        "generation": 3,
+        "question": "Liste para mim os vencedores do The Game Awards de 2023 e 2024.",
+        "response": "Abaixo estão os vencedores das principais categorias do **The Game Awards** de 2023 e 2024.\n\nVale lembrar que o evento de 2024 ocorreu em 12 de dezembro, celebrando o 10º aniversário da premiação.\n\n---\n\n### **The Game Awards 2024**\nO grande destaque foi **Final Fantasy VII Rebirth**, que liderou as premiações, enquanto *Astro Bot* também garantiu troféus importantes.\n\n*   **Jogo do Ano (GOTY):** *Final Fantasy VII Rebirth*\n*   **Melhor Direção:** *Astro Bot*\n*   **Melhor Narrativa:** *Final Fantasy VII Rebirth*\n*   **Melhor Direção de Arte:** *Metaphor: ReFantazio*\n*   **Melhor Trilha e Música:** *Final Fantasy VII Rebirth*\n*   **Melhor Design de Áudio:** *Senua's Saga: Hellblade II*\n*   **Melhor Atuação:** Briana White (Aerith em *Final Fantasy VII Rebirth*)\n*   **Melhor Jogo Independente:** *Balatro*\n*   **Melhor Jogo Mobile:** *Balatro*\n*   **Melhor Jogo de Ação:** *Stellar Blade*\n*   **Melhor Jogo de Ação/Aventura:** *Astro Bot*\n*   **Melhor RPG:** *Final Fantasy VII Rebirth*\n*   **Melhor Jogo de Luta:** *Tekken 8*\n*   **Melhor Jogo de Estratégia/Simulação:** *Frostpunk 2*\n*   **Melhor Jogo de Esporte/Corrida:** *F1 24*\n*   **Melhor Jogo Multiplayer:** *Helldivers 2*\n*   **Melhor Adaptação:** *Arcane* (Série de TV)\n*   **Jogo Mais Aguardado:** *Grand Theft Auto VI*\n\n---\n\n### **The Game Awards 2023**\nO ano de 2023 foi marcado pelo domínio absoluto de **Baldur's Gate 3**, que venceu em quase todas as categorias em que concorreu.\n\n*   **Jogo do Ano (GOTY):** *Baldur’s Gate 3*\n*   **Melhor Direção:** *Alan Wake 2*\n*   **Melhor Narrativa:** *Alan Wake 2*\n*   **Melhor Direção de Arte:** *Alan Wake 2*\n*   **Melhor Trilha e Música:** *Final Fantasy XVI*\n*   **Melhor Design de Áudio:** *Hi-Fi RUSH*\n*   **Melhor Atuação:** Neil Newbon (Astarion em *Baldur’s Gate 3*)\n*   **Melhor Jogo Independente:** *Sea of Stars*\n*   **Melhor Jogo Mobile:** *Honkai: Star Rail*\n*   **Melhor Jogo de Ação:** *Armored Core VI: Fires of Rubicon*\n*   **Melhor Jogo de Ação/Aventura:** *The Legend of Zelda: Tears of the Kingdom*\n*   **Melhor RPG:** *Baldur’s Gate 3*\n*   **Melhor Jogo de Luta:** *Street Fighter 6*\n*   **Melhor Jogo de Estratégia/Simulação:** *Pikmin 4*\n*   **Melhor Jogo de Esporte/Corrida:** *Forza Motorsport*\n*   **Melhor Jogo Multiplayer:** *Baldur’s Gate 3*\n*   **Melhor Adaptação:** *The Last of Us* (Série de TV)\n*   **Jogo Mais Aguardado:** *Final Fantasy VII Rebirth*",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 154,
+            "completion_tokens": 834,
+            "total_tokens": 988,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+]

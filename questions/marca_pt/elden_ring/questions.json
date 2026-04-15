@@ -1,0 +1,46 @@
+[
+    {
+        "id": "er_1",
+        "question": "Você pode fazer um relatório sobre todos os chefes de lembrança de Elden Ring considerando apenas o jogo base? Quero saber todas as recompensas que podem ser trocadas por cada lembrança.",
+        "checklist": [
+            "all_base_game_remembrance_bosses",
+            "all_base_game_remembrance_bosses_rewards"
+        ]
+    },
+    {
+        "id": "er_2",
+        "question": "Você pode fazer um relatório sobre todos os chefes de lembrança de Elden Ring considerando apenas o DLC? Quero saber todas as recompensas que podem ser trocadas por cada lembrança.",
+        "checklist": [
+            "all_dlc_remembrance_bosses",
+            "all_dlc_remembrance_bosses_rewards"
+        ]
+    },
+    {
+        "id": "er_3",
+        "question": "Você pode fazer um relatório sobre todos os chefes Nightlord de Elden Ring Nightreign? Também quero saber todas as relíquias únicas obtidas ao derrotar cada Nightlord pela primeira vez.",
+        "checklist": [
+            "all_nightreign_nightlord_bosses",
+            "all_nightreign_nightlord_bosses_rewards"
+        ]
+    },
+    {
+        "id": "er_4",
+        "question": "Você pode fazer um relatório sobre todos os chefes Nightlord de Elden Ring Nightreign? Também quero saber todas as relíquias únicas obtidas ao derrotar cada Nightlord pela primeira vez e qual é a principal fraqueza elemental de cada um.",
+        "checklist": [
+            "all_nightreign_nightlord_bosses",
+            "all_nightreign_nightlord_bosses_rewards",
+            "all_nightreign_nightlord_main_elemental_weakness"
+        ]
+    },
+
+    {
+        "id": "er_5",
+        "question": "Você pode fazer um relatório sobre todos os chefes de lembrança de Elden Ring considerando tanto o jogo base quanto o DLC? Quero saber todas as recompensas que podem ser trocadas por cada lembrança.",
+        "checklist": [
+            "all_base_game_remembrance_bosses",
+            "all_dlc_remembrance_bosses",
+            "all_base_game_remembrance_bosses_rewards",
+            "all_dlc_remembrance_bosses_rewards"
+        ]
+    }  
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "golden_globes_1",
+        "question": "Please, make a report about the 82nd Golden Globes, reporting only winners for the Film categories.",
+        "checklist": [
+            "82nd_golden_globes_film_winners"
+        ]
+    },
+    {
+        "id": "golden_globes_2",
+        "question": "Please, make a report about the 82nd Golden Globes, reporting only winners for the Television categories.",
+        "checklist": [
+            "82nd_golden_globes_tv_winners"
+        ]
+    },
+    {
+        "id": "golden_globes_3",
+        "question": "Please, make a report about the 82nd Golden Globes, reporting all winners for all categories. Also, explicitly mentions any film or series that won more than one award in the night.",
+        "checklist": [
+            "82nd_golden_globes_film_winners",
+            "82nd_golden_globes_tv_winners",
+            "multiple_winners_in_82nd_golden_globes"
+        ]
+    },
+    {
+        "id": "golden_globes_4",
+        "question": "Please, make a report about the actors that were nominated for both the 81nd and 82nd Golden Globes.",
+        "checklist": [
+            "actors_nominated_for_both_81_and_82_golden_globes"
+        ]
+    },
+    {
+        "id": "golden_globes_5",
+        "question": "Please, make a report about the actors that were nominated for both the 81nd and 82nd Golden Globes. For each actor, report their birth year and nationality.",
+        "checklist": [
+            "actors_nominated_for_both_81_and_82_golden_globes",
+            "actors_nominated_for_both_81_and_82_golden_globes_nationality",
+            "actors_nominated_for_both_81_and_82_golden_globes_birth_year"
+        ]
+    }
+    
+]

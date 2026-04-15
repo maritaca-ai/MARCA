@@ -1,0 +1,52 @@
+{
+    "times_top_5_universities_in_the_world_2020": [
+        "The report must mention the University of Oxford is the first in the times university ranking in 2020",
+        "The report must mention the California Institute of Technology is the second in the times university ranking in 2020",
+        "The report must mention the University of Cambridge is the third in the times university ranking in 2020",
+        "The report must mention the University of Stanford is the fourth in the times university ranking in 2020",
+        "The report must mention the University of MIT (Massachusetts Institute of Technology) is the fifth in the times university ranking in 2020"
+    ],
+    "times_top_5_universities_in_the_world_2021": [
+        "The report must mention the University of Oxford is the first in the times university ranking in 2021",
+        "The report must mention the University of Stanford is the second in the times university ranking in 2021",
+        "The report must mention the Harvard University is the third in the times university ranking in 2021",
+        "The report must mention the California Institute of Technology is the fourth in the times university ranking in 2021",
+        "The report must mention the University of MIT (Massachusetts Institute of Technology) is the fifth in the times university ranking in 2021"
+    ],
+    "times_top_5_universities_in_the_world_2022": [
+        "The report must mention the University of Oxford is the first in the times university ranking in 2022",
+        "The report must mention the California Institute of Technology is the second in the times university ranking in 2022 (tied with Harvard University)",
+        "The report must mention the Harvard University is also in second place in the times university ranking in 2022 (tied with California Institute of Technology)",
+        "The report must mention the University of Stanford is the fourth in the times university ranking in 2022",
+        "The report must mention the University of Cambridge is the fifth in the times university ranking in 2022 (tied with the Massachusetts Institute of Technology)",
+        "The report must mention the MIT (Massachusetts Institute of Technology) is the fifth in the times university ranking in 2022 (tied with the University of Cambridge)"
+    ],
+    "times_top_5_universities_in_the_world_2023": [
+        "The report must mention that the University of Oxford is the first in the times university ranking in 2023",
+        "The report must mention that the Harvard University is the second in the times university ranking in 2023",
+        "The report must mention that the University of Cambridge is the third in the times university ranking in 2023 (tied with the University of Stanford)",
+        "The report must mention that the University of Stanford is also in third place in the times university ranking in 2023 (tied with the University of Cambridge)",
+        "The report must mention that the University of MIT (Massachusetts Institute of Technology) is the fifth in the times university ranking in 2023"
+    ],
+
+    "times_top_5_universities_in_brazil_2025": [
+        "The report must mention that the University of Sao Paulo (USP) is the first brazillian university in the times university ranking in 2025, and it is placed in the 199th position in the world",
+        "The report must mention that the University of Campinas (UNICAMP) is the second brazillian university in the times university ranking in 2025, and it is placed in the range of 351-400 in the world",
+        "The report must mention that the Federal University of Rio de Janeiro is the third brazillian university in the times university ranking in 2025, and it is placed in the range 601-800 in the world",
+        "The report must mention that the Pontifical Catholic University of Rio de Janeiro (PUC-Rio) is the fourth brazillian university in the times university ranking in 2025, and it is placed in the range 601-800 in the world",
+        "The report must mention that the Federal University of Rio Grande do Sul (UFRGS) is the fifth brazillian university in the times university ranking in 2025, and it is placed in the range 601-800 in the world"
+    ],
+
+    "times_top_5_universities_in_brazil_2025_placing_in_2022":[
+        "The report must mention that the University of Sao Paulo (USP) was ranked in the range 201-250 in 2022",
+        "The report must mention that the University of Campinas (UNICAMP) was ranked in the range 401-500 in 2022",
+        "The report must mention that the Federal University of Rio de Janeiro was ranked in the range 601-800 in the world in 2022",
+        "The report must mention that the Pontifical Catholic University of Rio de Janeiro (PUC-Rio) was ranked in the range 601-800 in the world in 2022",
+        "The report must mention that the Federal University of Rio Grande do Sul (UFRGS) was ranked in the range 601-800 in the world in 2022"
+    ],
+
+    "times_top_2_universities_in_brazil_2025_top_onu_goal_ranking":[
+        "The report must mention that the University of Sao Paulo (USP) was better ranked in the 'zero hunger' goal in 2025, being place in the position 43 in the world",
+        "The report must mention that the University of Campinas (UNICAMP) was better ranked in the 'industry innovation and infrastructure' goal in 2025, being place in the position 85 in the world"
+    ]
+}

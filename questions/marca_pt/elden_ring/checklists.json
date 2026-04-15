@@ -1,0 +1,96 @@
+{
+    "all_base_game_remembrance_bosses": [
+        "O relatório deve mencionar Godrick the Grafted",
+        "O relatório deve mencionar Rennala, Queen of the Full Moon",
+        "O relatório deve mencionar Starscourge Radahn",
+        "O relatório deve mencionar Morgott, the Omen King",
+        "O relatório deve mencionar Rykard, Lord of Blasphemy",
+        "O relatório deve mencionar Mohg, Lord of Blood",
+        "O relatório deve mencionar o Fire Giant",
+        "O relatório deve mencionar Malenia, Blade of Miquella",
+        "O relatório deve mencionar Maliketh, the Black Blade",
+        "O relatório deve mencionar Dragonlord Placidusax",
+        "O relatório deve mencionar o Lichdragon Fortissax",
+        "O relatório deve mencionar Regal Ancestor Spirit",
+        "O relatório deve mencionar Astel, Naturalborn of the Void",
+        "O relatório deve mencionar Godfrey, First Elden Lord (também conhecido como Hoarah Loux)",
+        "O relatório deve mencionar Radagon of the Golden Order (também conhecido como Elden Beast)"
+    ],
+
+    "all_base_game_remembrance_bosses_rewards": [
+        "O relatório deve mencionar que a lembrança de Godrick the Grafted pode ser trocada por 'Axe of Godrick' ou 'Grafted Dragon'",
+        "O relatório deve mencionar que a lembrança de Rennala, Queen of the Full Moon pode ser trocada por 'Rennala's Full Moon' ou 'Carian Regal Scepter'",
+        "O relatório deve mencionar que a lembrança de Starscourge Radahn pode ser trocada por 'Starscourge Greatsword' ou 'Lion Greatbow'",
+        "O relatório deve mencionar que a lembrança de Morgott, the Omen King pode ser trocada por 'Morgott's Cursed Sword' ou 'Regal Omen Bairn'",
+        "O relatório deve mencionar que a lembrança de Rykard, Lord of Blasphemy pode ser trocada por 'Rykard's Rancor' ou 'Blasphemous Blade'",
+        "O relatório deve mencionar que a lembrança de Mohg, Lord of Blood pode ser trocada por 'Mohgwyn's Sacred Spear' ou 'Bloodboon'",
+        "O relatório deve mencionar que a lembrança do Fire Giant pode ser trocada por 'Giant's Red Braid' ou 'Burn, O Flame!'",
+        "O relatório deve mencionar que a lembrança de Malenia, Blade of Miquella pode ser trocada por 'Hand of Malenia' ou 'Scarlet Aeonia'",
+        "O relatório deve mencionar que a lembrança de Maliketh, the Black Blade pode ser trocada por 'Maliketh's Black Blade' ou 'Black Blade'",
+        "O relatório deve mencionar que a lembrança de Dragonlord Placidusax pode ser trocada por 'Dragon King's Cragblade' ou 'Placidusax's Ruin'",
+        "O relatório deve mencionar que a lembrança de Lichdragon Fortissax pode ser trocada por 'Fortissax's Lightning Spear' ou 'Death Lightning'",
+        "O relatório deve mencionar que a lembrança de Regal Ancestor Spirit pode ser trocada por 'Winged Greathorn' ou 'Ancestral Spirit's Horn'",
+        "O relatório deve mencionar que a lembrança de Astel, Naturalborn of the Void pode ser trocada por 'Waves of Darkness' ou 'Bastard's Star'",
+        "O relatório deve mencionar que a lembrança de Godfrey, First Elden Lord pode ser trocada por 'Axe of Godfrey' ou 'Hoarah Loux's Earthshaker'",
+        "O relatório deve mencionar que a lembrança de Radagon of the Golden Order pode ser trocada por 'Marika's Hammer' ou 'Sacred Relic Sword'"
+    ],
+
+    "all_dlc_remembrance_bosses": [
+        "O relatório deve mencionar Rellana, Twin Moon Knight",
+        "O relatório deve mencionar Messmer the Impaler",
+        "O relatório deve mencionar Romina, Saint of the Bud",
+        "O relatório deve mencionar Promised Consort Radahn",
+        "O relatório deve mencionar Metyr, Mother of Fingers",
+        "O relatório deve mencionar Divine Beast Dancing Lion",
+        "O relatório deve mencionar Putrescent Knight",
+        "O relatório deve mencionar Scadutree Avatar",
+        "O relatório deve mencionar Midra, Lord of Frenzied Flame",
+        "O relatório deve mencionar Commander Gaius"
+    ],
+
+    "all_dlc_remembrance_bosses_rewards": [
+        "O relatório deve mencionar que a lembrança de Rellana, Twin Moon Knight pode ser trocada por 'Rellana's Twin Blades' ou 'Rellana's Twin Moons'",
+        "O relatório deve mencionar que a lembrança de Messmer the Impaler pode ser trocada por 'Messmer's Orb' ou 'Spear of the Impaler'",
+        "O relatório deve mencionar que a lembrança de Romina, Saint of the Bud pode ser trocada por 'Poleblade of the Bud' ou 'Rotten Butterflies'",
+        "O relatório deve mencionar que a lembrança de Promised Consort Radahn pode ser trocada por 'Greatsword of Radahn' ou 'Light of Miquella'",
+        "O relatório deve mencionar que a lembrança de Metyr, Mother of Fingers pode ser trocada por 'Staff of the Great Beyond' ou 'Gazing Finger'",
+        "O relatório deve mencionar que a lembrança de Divine Beast Dancing Lion pode ser trocada por 'Enraged Divine Beast' ou 'Ash of War: Divine Beast Frost Stomp'",
+        "O relatório deve mencionar que a lembrança de Putrescent Knight pode ser trocada por 'Putrescence Cleaver' ou 'Vortex of Putrescence'",
+        "O relatório deve mencionar que a lembrança de Scadutree Avatar pode ser trocada por 'Shadow Sunflower Blossom' ou 'Land of Shadow'",
+        "O relatório deve mencionar que a lembrança de Midra, Lord of Frenzied Flame pode ser trocada por 'Greatsword of Damnation' ou 'Midra's Flame of Frenzy'",
+        "O relatório deve mencionar que a lembrança de Commander Gaius pode ser trocada por 'Sword Lance' ou 'Blades of Stone'"
+    ],
+
+    "all_nightreign_nightlord_bosses": [
+        "O relatório deve mencionar Gladius, Beast of Night (também conhecido como Tricephalos)",
+        "O relatório deve mencionar Adel, Baron of Night (também conhecido como the Gaping Maw)",
+        "O relatório deve mencionar Gnoster, Wisdom of Night (também conhecido como the Sentient Pest)",
+        "O relatório deve mencionar Maris, Fathom of Night (também conhecido como Augur)",
+        "O relatório deve mencionar Libra, Creature of Night (também conhecido como the Equilibrious Beast)",
+        "O relatório deve mencionar Fulghor, Champion of Nightglow (também conhecido como the Darkdrift Knight)",
+        "O relatório deve mencionar Caligo, Miasma of Night (também conhecido como the Fissure in the Fog)",
+        "O relatório deve mencionar Heolstor the Nightlord (também conhecido como the Night Aspect)"
+    ],
+
+    "all_nightreign_nightlord_bosses_rewards": [
+        "O relatório deve mencionar que, após derrotar Gladius, Beast of Night, o jogador recebe a relíquia 'Night of the Beast'",
+        "O relatório deve mencionar que, após derrotar Adel, Baron of Night, o jogador recebe a relíquia 'Night of the Baron'",
+        "O relatório deve mencionar que, após derrotar Gnoster, Wisdom of Night, o jogador recebe a relíquia 'Night of the Wise'",
+        "O relatório deve mencionar que, após derrotar Maris, Fathom of Night, o jogador recebe a relíquia 'Night of the Fathom'",
+        "O relatório deve mencionar que, após derrotar Libra, Creature of Night, o jogador recebe a relíquia 'Night of the Demon'",
+        "O relatório deve mencionar que, após derrotar Fulghor, Champion of Nightglow, o jogador recebe a relíquia 'Night of the Champion'",
+        "O relatório deve mencionar que, após derrotar Caligo, Miasma of Night, o jogador recebe a relíquia 'Night of the Miasma'",
+        "O relatório deve mencionar que, após derrotar Heolstor the Nightlord, o jogador recebe a relíquia 'Night of the Lord'"
+    ],
+
+    "all_nightreign_nightlord_main_elemental_weakness": [
+        "O relatório deve mencionar que a principal fraqueza elemental de Gladius, Beast of Night é dano Sagrado",
+        "O relatório deve mencionar que a principal fraqueza elemental de Adel, Baron of Night é dano de Veneno",
+        "O relatório deve mencionar que a principal fraqueza elemental de Gnoster, Wisdom of Night é dano de Fogo",
+        "O relatório deve mencionar que a principal fraqueza elemental de Maris, Fathom of Night é dano de Raio",
+        "O relatório deve mencionar que a principal fraqueza elemental de Libra, Creature of Night é dano de Loucura",
+        "O relatório deve mencionar que a principal fraqueza elemental de Fulghor, Champion of Nightglow é dano de Raio",
+        "O relatório deve mencionar que a principal fraqueza elemental de Caligo, Miasma of Night é dano de Fogo",
+        "O relatório deve mencionar que a principal fraqueza elemental de Heolstor the Nightlord é dano Sagrado"
+    ]
+}

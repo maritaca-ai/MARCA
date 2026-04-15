@@ -1,0 +1,24 @@
+[
+    {
+        "id": "game_awards_1",
+        "question": "Liste para mim os vencedores do The Game Awards 2023.",
+        "checklist": [
+            "all_2023_game_awards_winners"
+        ]
+    },
+    {
+        "id": "game_awards_2",
+        "question": "Liste para mim os vencedores do The Game Awards 2024.",
+        "checklist": [
+            "all_2024_game_awards_winners"
+        ]
+    }, 
+    {
+        "id": "game_awards_3",
+        "question": "Liste para mim os vencedores do The Game Awards de 2023 e 2024.",
+        "checklist": [
+            "all_2023_game_awards_winners",
+            "all_2024_game_awards_winners"
+        ]
+    }
+]

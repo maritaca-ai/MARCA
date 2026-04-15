@@ -1,0 +1,52 @@
+{
+    "times_top_5_universities_in_the_world_2020": [
+        "O relatório deve mencionar que a University of Oxford é a primeira colocada no ranking da Times em 2020.",
+        "O relatório deve mencionar que o California Institute of Technology é o segundo colocado no ranking da Times em 2020.",
+        "O relatório deve mencionar que a University of Cambridge é a terceira colocada no ranking da Times em 2020.",
+        "O relatório deve mencionar que a Stanford University é a quarta colocada no ranking da Times em 2020.",
+        "O relatório deve mencionar que o MIT (Massachusetts Institute of Technology) é o quinto colocado no ranking da Times em 2020."
+    ],
+    "times_top_5_universities_in_the_world_2021": [
+        "O relatório deve mencionar que a University of Oxford é a primeira colocada no ranking da Times em 2021.",
+        "O relatório deve mencionar que a Stanford University é a segunda colocada no ranking da Times em 2021.",
+        "O relatório deve mencionar que a Harvard University é a terceira colocada no ranking da Times em 2021.",
+        "O relatório deve mencionar que o California Institute of Technology é o quarto colocado no ranking da Times em 2021.",
+        "O relatório deve mencionar que o MIT (Massachusetts Institute of Technology) é o quinto colocado no ranking da Times em 2021."
+    ],
+    "times_top_5_universities_in_the_world_2022": [
+        "O relatório deve mencionar que a University of Oxford é a primeira colocada no ranking da Times em 2022.",
+        "O relatório deve mencionar que o California Institute of Technology é o segundo colocado no ranking da Times em 2022 (empatado com a Harvard University).",
+        "O relatório deve mencionar que a Harvard University também ocupa a segunda posição no ranking da Times em 2022 (empatada com o California Institute of Technology).",
+        "O relatório deve mencionar que a Stanford University é a quarta colocada no ranking da Times em 2022.",
+        "O relatório deve mencionar que a University of Cambridge é a quinta colocada no ranking da Times em 2022 (empatada com o Massachusetts Institute of Technology).",
+        "O relatório deve mencionar que o MIT (Massachusetts Institute of Technology) é o quinto colocado no ranking da Times em 2022 (empatado com a University of Cambridge)."
+    ],
+    "times_top_5_universities_in_the_world_2023": [
+        "O relatório deve mencionar que a University of Oxford é a primeira colocada no ranking da Times em 2023.",
+        "O relatório deve mencionar que a Harvard University é a segunda colocada no ranking da Times em 2023.",
+        "O relatório deve mencionar que a University of Cambridge é a terceira colocada no ranking da Times em 2023 (empatada com a Stanford University).",
+        "O relatório deve mencionar que a Stanford University também ocupa a terceira posição no ranking da Times em 2023 (empatada com a University of Cambridge).",
+        "O relatório deve mencionar que o MIT (Massachusetts Institute of Technology) é o quinto colocado no ranking da Times em 2023."
+    ],
+
+    "times_top_5_universities_in_brazil_2025": [
+        "O relatório deve mencionar que a Universidade de São Paulo (USP) é a primeira brasileira no ranking da Times em 2025 e aparece na 199ª posição mundial.",
+        "O relatório deve mencionar que a Universidade de Campinas (UNICAMP) é a segunda brasileira no ranking da Times em 2025 e aparece no intervalo 351-400 mundial.",
+        "O relatório deve mencionar que a Universidade Federal do Rio de Janeiro é a terceira brasileira no ranking da Times em 2025 e aparece no intervalo 601-800 mundial.",
+        "O relatório deve mencionar que a Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) é a quarta brasileira no ranking da Times em 2025 e aparece no intervalo 601-800 mundial.",
+        "O relatório deve mencionar que a Universidade Federal do Rio Grande do Sul (UFRGS) é a quinta brasileira no ranking da Times em 2025 e aparece no intervalo 601-800 mundial."
+    ],
+
+    "times_top_5_universities_in_brazil_2025_placing_in_2022": [
+        "O relatório deve mencionar que a Universidade de São Paulo (USP) estava no intervalo 201-250 em 2022.",
+        "O relatório deve mencionar que a Universidade de Campinas (UNICAMP) estava no intervalo 401-500 em 2022.",
+        "O relatório deve mencionar que a Universidade Federal do Rio de Janeiro estava no intervalo 601-800 em 2022.",
+        "O relatório deve mencionar que a Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) estava no intervalo 601-800 em 2022.",
+        "O relatório deve mencionar que a Universidade Federal do Rio Grande do Sul (UFRGS) estava no intervalo 601-800 em 2022."
+    ],
+
+    "times_top_2_universities_in_brazil_2025_top_onu_goal_ranking": [
+        "O relatório deve mencionar que a Universidade de São Paulo (USP) teve seu melhor desempenho em 2025 no ODS 'fome zero', ocupando a 43ª posição mundial.",
+        "O relatório deve mencionar que a Universidade de Campinas (UNICAMP) teve seu melhor desempenho em 2025 no ODS 'indústria, inovação e infraestrutura', ocupando a 85ª posição mundial."
+    ]
+}

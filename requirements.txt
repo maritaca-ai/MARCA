@@ -1,0 +1,4 @@
+openai
+rich
+wandb
+requests

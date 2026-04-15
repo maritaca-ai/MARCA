@@ -1,0 +1,70 @@
+{
+    "82nd_golden_globes_film_winners": [
+        "O relatório deve mencionar o filme 'The Brutalist' como vencedor da categoria 'Best Motion Picture – Drama'.",
+        "O relatório deve mencionar o filme 'Emilia Pérez' como vencedor da categoria 'Best Motion Picture – Musical or Comedy'.",
+        "O relatório deve mencionar o filme 'Flow' como vencedor da categoria 'Best Motion Picture – Animated'.",
+        "O relatório deve mencionar o filme 'Emilia Pérez' como vencedor da categoria 'Best Motion Picture – Non-English Language'.",
+        "O relatório deve mencionar o ator 'Adrien Brody' como vencedor da categoria 'Best Actor in a Motion Picture – Drama'.",
+        "O relatório deve mencionar a atriz 'Fernanda Torres' como vencedora da categoria 'Best Actress in a Motion Picture – Drama'.",
+        "O relatório deve mencionar o ator 'Sebastian Stan' como vencedor da categoria 'Best Actor in a Motion Picture – Musical or Comedy'.",
+        "O relatório deve mencionar a atriz 'Demi Moore' como vencedora da categoria 'Best Actress in a Motion Picture – Musical or Comedy'.",
+        "O relatório deve mencionar o ator 'Kieran Culkin' como vencedor da categoria 'Best Supporting Actor in a Motion Picture'.",
+        "O relatório deve mencionar a atriz 'Zoe Saldaña' como vencedora da categoria 'Best Supporting Actress in a Motion Picture'.",
+        "O relatório deve mencionar o diretor 'Brady Corbet' como vencedor da categoria 'Best Director'.",
+        "O relatório deve mencionar o roteirista 'Peter Straughan' como vencedor da categoria 'Best Screenplay'.",
+        "O relatório deve mencionar o compositor 'Trent Reznor' como vencedor da categoria 'Best Original Score'.",
+        "O relatório deve mencionar o filme 'Wicked' como vencedor da categoria 'Cinematic and Box Office Achievement'."
+    ],
+    "82nd_golden_globes_tv_winners": [
+        "O relatório deve mencionar a série 'Shōgun' como vencedora da categoria 'Best Television Series – Drama'.",
+        "O relatório deve mencionar a série 'Hacks' como vencedora da categoria 'Best Television Series – Musical or Comedy'.",
+        "O relatório deve mencionar a série 'Baby Reindeer' como vencedora da categoria 'Best Limited Series, Anthology Series, or Motion Picture Made for Television'.",
+        "O relatório deve mencionar a atriz 'Ali Wong' como vencedora da categoria 'Best Performance in Stand-Up Comedy on Television'.",
+        "O relatório deve mencionar o ator 'Hiroyuki Sanada' como vencedor da categoria 'Best Actor in a Television Series – Drama'.",
+        "O relatório deve mencionar a atriz 'Anna Sawai' como vencedora da categoria 'Best Actress in a Television Series – Drama'.",
+        "O relatório deve mencionar o ator 'Jeremy Allen White' como vencedor da categoria 'Best Actor in a Television Series – Musical or Comedy'.",
+        "O relatório deve mencionar a atriz 'Jean Smart' como vencedora da categoria 'Best Actress in a Television Series – Musical or Comedy'.",
+        "O relatório deve mencionar o ator 'Colin Farrell' como vencedor da categoria 'Best Actor in a Limited Series, Anthology Series, or Motion Picture Made for Television'.",
+        "O relatório deve mencionar a atriz 'Jodie Foster' como vencedora da categoria 'Best Actress in a Limited Series, Anthology Series, or Motion Picture Made for Television'.",
+        "O relatório deve mencionar o ator 'Tadanobu Asano' como vencedor da categoria 'Best Supporting Actor on Television'.",
+        "O relatório deve mencionar a atriz 'Jessica Gunning' como vencedora da categoria 'Best Supporting Actress on Television'."
+    ],
+
+    "multiple_winners_in_82nd_golden_globes": [
+        "O relatório deve mencionar que o filme 'Emilia Pérez' ganhou mais de um prêmio.",
+        "O relatório deve mencionar que o filme 'The Brutalist' ganhou mais de um prêmio.",
+        "O relatório deve mencionar que a série 'Shōgun' ganhou mais de um prêmio.",
+        "O relatório deve mencionar que a série 'Baby Reindeer' ganhou mais de um prêmio.",
+        "O relatório deve mencionar que a série 'Hacks' ganhou mais de um prêmio."
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes": [
+        "O relatório deve mencionar que o ator 'Colman Domingo' foi indicado tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que o ator 'Timothée Chalamet' foi indicado tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que o ator 'Gary Oldman' foi indicado tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que o ator 'Andrew Scott' foi indicado tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que a atriz 'Jodie Foster' foi indicada tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que a atriz 'Selena Gomez' foi indicada tanto no 81º quanto no 82º Golden Globes.",
+        "O relatório deve mencionar que o ator 'Ebon Moss-Bachrach' foi indicado tanto no 81º quanto no 82º Golden Globes."
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes_birth_year": [
+        "O relatório deve mencionar que o ator 'Colman Domingo' nasceu em 1969.",
+        "O relatório deve mencionar que o ator 'Timothée Chalamet' nasceu em 1995.",
+        "O relatório deve mencionar que o ator 'Gary Oldman' nasceu em 1958.",
+        "O relatório deve mencionar que o ator 'Andrew Scott' nasceu em 1976.",
+        "O relatório deve mencionar que a atriz 'Jodie Foster' nasceu em 1962.",
+        "O relatório deve mencionar que a atriz 'Selena Gomez' nasceu em 1992.",
+        "O relatório deve mencionar que o ator 'Ebon Moss-Bachrach' nasceu em 1977."
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes_nationality": [
+        "O relatório deve mencionar que o ator 'Colman Domingo' é americano.",
+        "O relatório deve mencionar que o ator 'Timothée Chalamet' é americano e francês.",
+        "O relatório deve mencionar que o ator 'Gary Oldman' é britânico.",
+        "O relatório deve mencionar que o ator 'Andrew Scott' é irlandês.",
+        "O relatório deve mencionar que a atriz 'Jodie Foster' é americana.",
+        "O relatório deve mencionar que a atriz 'Selena Gomez' é americana.",
+        "O relatório deve mencionar que o ator 'Ebon Moss-Bachrach' é americano."
+    ]
+}

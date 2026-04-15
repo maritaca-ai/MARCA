@@ -1,0 +1,49 @@
+[
+    {
+        "id": "times_university_ranking_1",
+        "question": "Quais são as 5 melhores universidades do mundo em 2020 segundo o Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2020"
+        ]
+    },
+    {
+        "id": "times_university_ranking_2",
+        "question": "Quais são as 5 melhores universidades do mundo em 2023 segundo o Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2023"
+        ]
+    },
+    {
+        "id": "times_university_ranking_3",
+        "question": "Liste para mim as 5 melhores universidades do mundo segundo o Times Higher Education World University Ranking de 2020 (inclusive) até 2023 (inclusive).",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2020",
+            "times_top_5_universities_in_the_world_2021",
+            "times_top_5_universities_in_the_world_2022",
+            "times_top_5_universities_in_the_world_2023"
+        ]
+    },
+    {
+        "id": "times_university_ranking_4",
+        "question": "Quais são as 5 melhores universidades do Brasil em 2025 segundo o Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_brazil_2025"
+        ]
+    },
+    {
+        "id": "times_university_ranking_5",
+        "question": "Quais são as 5 melhores universidades do Brasil em 2025 no Times Higher Education World University Ranking e quais foram suas colocações em 2022?",
+        "checklist": [
+            "times_top_5_universities_in_brazil_2025",
+            "times_top_5_universities_in_brazil_2025_placing_in_2022"
+        ]
+    },
+    {
+        "id": "times_university_ranking_6",
+        "question": "Quais são as 2 melhores universidades do Brasil em 2025 segundo o Times Higher Education World University Ranking e, ainda segundo o Times, em quais dos 17 ODS da ONU essas universidades tiveram seu melhor desempenho em 2025?",
+        "checklist": [
+            "times_top_2_universities_in_brazil_2025_top_onu_goal_ranking",
+            "times_top_5_universities_in_brazil_2025"
+        ]
+    }
+]

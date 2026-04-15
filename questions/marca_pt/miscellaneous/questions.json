@@ -1,0 +1,38 @@
+[
+    {
+        "id": "misc1_1",
+        "question": "Quais nadadores(as) brasileiros(as) conseguiram medalhas individuais em provas olímpicas de natação entre os Jogos Olímpicos de 1980 e 2024? Considere apenas provas individuais (exclua revezamentos), e inclua resultados de medalha de ouro, prata ou bronze. Para cada atleta, indique: (1) nome completo, (2) edição da Olimpíada em que medalhou, (3) prova disputada, (4) tipo de medalha, e (5) tempo realizado. Desconsidere medalhas obtidas em esportes aquáticos que não sejam natação em piscina (ex: maratona aquática, polo aquático, nado artístico ou saltos ornamentais).",
+        "checklist": [
+            "brazillian_swimmers_that_won_a_medal",
+            "brazillian_swimmers_that_won_a_medal_details"
+        ]
+    },
+    {
+        "id": "misc1_2",
+        "question": "Quais são os modelos de linguagem decoder-only (i.e., GPT-like) voltados para português lançados até final de 2024? Exclua modelos encoder-only (i.e., BERT-like), e encoder-decoder (ex: T5-like). O modelo pode ser público (ex: open-weights na huggingface ou github) ou privado (ex: disponível via API apenas ou apenas descrito em relatório técnico, artigo cientifico, ou blog post). O modelo pode ser apenas um finetuning ou further pretraining de um outro modelo base ou pode ter sido treinado do zero.",
+        "checklist": [
+            "models_decoder_only_portuguese_2024"
+        ]
+    },
+    {
+        "id": "misc1_3",
+        "question": "Entre os dez indicados a Melhor Filme no Oscar 2025, quais contam com pelo menos um dos diretores do filme nascidos fora da Europa?",
+        "checklist": [
+            "movies_with_directors_not_from_europe"
+        ]
+    },
+    {
+        "id": "misc1_4",
+        "question": "No Brasileirão 2024, quais clubes contam com jogadores estrangeiros (não nascidos no Brasil) que marcaram mais de 10 gols na temporada?",
+        "checklist": [
+            "foreign_players_with_more_than_10_goals_in_2024"
+        ]
+    },
+    {
+        "id": "misc1_5",
+        "question": "Entre as oito seleções que chegaram às quartas de final da Copa do Mundo de 2022, quais são atualmente comandadas por técnicos que nunca jogaram profissionalmente na Itália?",
+        "checklist": [
+            "coaches_not_from_italy"
+        ]
+    }
+]

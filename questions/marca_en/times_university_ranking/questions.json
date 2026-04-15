@@ -1,0 +1,49 @@
+[
+    {
+        "id": "times_university_ranking_1",
+        "question": "What are the top 5 universities in the world in 2020, according to the Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2020"
+        ]
+    },
+    {
+        "id": "times_university_ranking_2",
+        "question": "What are the top 5 universities in the world in 2023, according to the Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2023"
+        ]
+    },
+    {
+        "id": "times_university_ranking_3",
+        "question": "List for me the top 5 universities in the world according to the Times Higher Education World University Ranking, from 2020 (inclusive) to 2023 (inclusive).",
+        "checklist": [
+            "times_top_5_universities_in_the_world_2020",
+            "times_top_5_universities_in_the_world_2021",
+            "times_top_5_universities_in_the_world_2022",
+            "times_top_5_universities_in_the_world_2023"
+        ]
+    },
+    {
+        "id": "times_university_ranking_4",
+        "question": "What are the top 5 universities in Brazil in 2025, according to the Times Higher Education World University Ranking?",
+        "checklist": [
+            "times_top_5_universities_in_brazil_2025"
+        ]
+    },
+    {
+        "id": "times_university_ranking_5",
+        "question": "What are the top 5 universities in Brazil in 2025 according to the Times Higher Education World University Ranking, and what was the placements of these universities back in 2022?",
+        "checklist": [
+            "times_top_5_universities_in_brazil_2025",
+            "times_top_5_universities_in_brazil_2025_placing_in_2022"
+        ]
+    },
+    {
+        "id": "times_university_ranking_6",
+        "question": "What are the top 2 universities in Brazil in 2025 according to the Times Higher Education World University Ranking, and also according to the Times Higher Education, in which of the 17 ONU SDGs goals these universities were better ranked in 2025?",
+        "checklist": [
+            "times_top_2_universities_in_brazil_2025_top_onu_goal_ranking",
+            "times_top_5_universities_in_brazil_2025"
+        ]
+    }
+]

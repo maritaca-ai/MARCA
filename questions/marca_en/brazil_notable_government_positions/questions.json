@@ -1,0 +1,44 @@
+[
+    {
+        "id": "brazil_notable_government_positions_1",
+        "question": "Can you list for me all the brazilian ministers of ciency and technology from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_ciency_and_technology_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_2",
+        "question": "Can you list for me all the brazilian ministers of planning from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_planning_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_3",
+        "question": "Can you list for me all the brazilian ministers of health from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_health_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_4",
+        "question": "Can you list for me all the brazilian ministers of education from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_education_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_5",
+        "question": "Can you list for me all the brazilian ministers of agriculture from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_agriculture_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_6",
+        "question": "Can you list for me all the brazilian ministers of turism from the beginning of 2018 until the end of 2024",
+        "checklist": [
+            "brazil_minister_of_turism_from_2018_until_2024"
+        ]
+    }
+]

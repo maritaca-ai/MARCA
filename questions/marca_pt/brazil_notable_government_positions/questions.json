@@ -1,0 +1,44 @@
+[
+    {
+        "id": "brazil_notable_government_positions_1",
+        "question": "Você pode listar todos os ministros brasileiros de Ciência e Tecnologia desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_ciency_and_technology_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_2",
+        "question": "Você pode listar todos os ministros brasileiros do Planejamento desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_planning_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_3",
+        "question": "Você pode listar todos os ministros brasileiros da Saúde desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_health_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_4",
+        "question": "Você pode listar todos os ministros brasileiros da Educação desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_education_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_5",
+        "question": "Você pode listar todos os ministros brasileiros da Agricultura desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_agriculture_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "brazil_notable_government_positions_6",
+        "question": "Você pode listar todos os ministros brasileiros do Turismo desde o início de 2018 até o fim de 2024?",
+        "checklist": [
+            "brazil_minister_of_turism_from_2018_until_2024"
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "usa_notable_government_positions_1",
+        "question": "Você pode listar todos os secretários de Educação dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_education_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_2",
+        "question": "Você pode listar todos os secretários de Estado dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_state_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_3",
+        "question": "Você pode listar todos os secretários de Comércio dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_commerce_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_4",
+        "question": "Você pode listar todos os secretários de Energia dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_energy_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_5",
+        "question": "Você pode listar todos os secretários de Saúde e Serviços Humanos dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_health_and_human_services_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_6",
+        "question": "Você pode listar todos os secretários de Transportes dos EUA do início de 2018 até o fim de 2024, incluindo secretários interinos?",
+        "checklist": [
+            "usa_secretary_of_transportation_from_2018_until_2024"
+        ]
+    }
+]

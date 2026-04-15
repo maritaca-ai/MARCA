@@ -1,0 +1,96 @@
+{
+    "all_base_game_remembrance_bosses": [
+        "The report must mention Godrick the Grafted",
+        "The report must mention Rennala, Queen of the Full Moon",
+        "The report must mention Starscourge Radahn",
+        "The report must mention Morgott, the Omen King",
+        "The report must mention Rykard, Lord of Blasphemy",
+        "The report must mention Mohg, Lord of Blood",
+        "The report must mention the Fire Giant",
+        "The report must mention Malenia, Blade of Miquella",
+        "The report must mention Maliketh, the Black Blade",
+        "The report must mention Dragonlord Placidusax",
+        "The report must mention the Lichdragon Fortissax ",
+        "The report must mention Regal Ancestor Spirit",
+        "The report must mention Astel, Naturalborn of the Void",
+        "The report must mention Godfrey, First Elden Lord (also known as Hoarah Loux) ",
+        "The report must mention Radagon of the Golden Order (also known as elden beast)"
+    ],
+
+    "all_base_game_remembrance_bosses_rewards": [
+        "The report must mention that the remembrance from Godrick the Grafted can be traded for 'Axe of Godrick' or 'Grafted Dragon'",
+        "The report must mention that the remembrance from Rennala, Queen of the Full Moon can be traded for 'Rennala's Full Moon' or 'Carian Regal Scepter'",
+        "The report must mention that the remembrance from Starscourge Radahn can be traded for 'Starscourge Greatsword' or 'Lion Greatbow'",
+        "The report must mention that the remembrance from Morgott, the Omen King can be traded for 'Morgott's Cursed Sword' or 'Regal Omen Bairn'",
+        "The report must mention that the remembrance from Rykard, Lord of Blasphemy can be traded for 'Rykard's Rancor' or 'Blasphemous Blade'",
+        "The report must mention that the remembrance from Mohg, Lord of Blood can be traded for 'Mohgwyn's Sacred Spear' or 'Bloodboon'",
+        "The report must mention that the remembrance from the Fire Giant can be traded for 'Giant's Red Braid' or 'Burn, O Flame!'",
+        "The report must mention that the remembrance from Malenia, Blade of Miquella can be traded for 'Hand of Malenia' or 'Scarlet Aeonia'",
+        "The report must mention that the remembrance from Maliketh, the Black Blade can be traded for 'Maliketh's Black Blade' or 'Black Blade'",
+        "The report must mention that the remembrance from Dragonlord Placidusax can be traded for 'Dragon King's Cragblade' or 'Placidusax's Ruin'",
+        "The report must mention that the remembrance from the Lichdragon Fortissax can be traded for 'Fortissax's Lightning Spear' or 'Death Lightning'",
+        "The report must mention that the remembrance from Regal Ancestor Spirit can be traded for 'Winged Greathorn' or 'Ancestral Spirit's Horn'",
+        "The report must mention that the remembrance from Astel, Naturalborn of the Void can be traded for 'Waves of Darkness' or 'Bastard's Star'",
+        "The report must mention that the remembrance from Godfrey, First Elden Lord can be traded for 'Axe of Godfrey' or 'Hoarah Loux's Earthshaker'",
+        "The report must mention that the remembrance from Radagon of the Golden Order can be traded for 'Marika's Hammer' or 'Sacred Relic Sword'"
+    ],
+
+    "all_dlc_remembrance_bosses": [
+        "The report must mention Rellana, Twin Moon Knight",
+        "The report must mention Messmer the Impaler",
+        "The report must mention Romina, Saint of the Bud",
+        "The report must mention Promised Consort Radahn",
+        "The report must mention Metyr, Mother of Fingers",
+        "The report must mention Divine Beast Dancing Lion",
+        "The report must mention Putrescent Knight",
+        "The report must mention Scadutree Avatar",
+        "The report must mention Midra, Lord of Frenzied Flame",
+        "The report must mention Commander Gaius"
+    ],
+
+    "all_dlc_remembrance_bosses_rewards": [
+        "The report must mention that the remembrance from Rellana, Twin Moon Knight can be traded for 'Rellana's Twin Blades' or 'Rellana's Twin Moons '",
+        "The report must mention that the remembrance from Messmer the Impaler can be traded for 'Messmer's Orb' or 'Spear of the Impaler'",
+        "The report must mention that the remembrance from Romina, Saint of the Bud can be traded for 'Poleblade of the Bud' or 'Rotten Butterflies'",
+        "The report must mention that the remembrance from Promised Consort Radahn can be traded for 'Greatsword of Radahn' or 'Light of Miquella'",
+        "The report must mention that the remembrance from Metyr, Mother of Fingers can be traded for 'Staff of the Great Beyond' or 'Gazing Finger'",
+        "The report must mention that the remembrance from Divine Beast Dancing Lion can be traded for 'Enraged Divine Beast' or 'Ash of War: Divine Beast Frost Stomp'",
+        "The report must mention that the remembrance from Putrescent Knight can be traded for 'Putrescence Cleaver' or 'Vortex of Putrescence'",
+        "The report must mention that the remembrance from Scadutree Avatar can be traded for 'Shadow Sunflower Blossom' or 'Land of Shadow'",
+        "The report must mention that the remembrance from Midra, Lord of Frenzied Flame can be traded for 'Greatsword of Damnation' or 'Midra's Flame of Frenzy'",
+        "The report must mention that the remembrance from Commander Gaius can be traded for 'Sword Lance' or 'Blades of Stone'"
+    ],
+
+    "all_nightreign_nightlord_bosses": [
+        "The report must mention Gladius, Beast of Night (also known as Tricephalos)",
+        "The report must mention Adel, Baron of Night (also known as the Gaping Maw)",
+        "The report must mention Gnoster, Wisdom of Night (also known as the Sentient Pest)",
+        "The report must mention Maris, Fathom of Night (also known as Augur)",
+        "The report must mention Libra, Creature of Night (also known as the Equilibrious Beast)",
+        "The report must mention Fulghor, Champion of Nightglow (also known as the Darkdrift Knight)",
+        "The report must mention Caligo, Miasma of Night (also known as the Fissure in the Fog)",
+        "The report must mention Heolstor the Nightlord (also known as the Night Aspect)"
+    ],
+
+    "all_nightreign_nightlord_bosses_rewards": [
+        "The report must mention that after defeating Gladius, Beast of Night, the player receives the relic 'Night of the Beast'",
+        "The report must mention that after defeating Adel, Baron of Night, the player receives the relic 'Night of the Baron'",
+        "The report must mention that after defeating Gnoster, Wisdom of Night, the player receives the relic 'Night of the Wise'",
+        "The report must mention that after defeating Maris, Fathom of Night, the player receives the relic 'Night of the Fathom'",
+        "The report must mention that after defeating Libra, Creature of Night, the player receives the relic 'Night of the Demon'",
+        "The report must mention that after defeating Fulghor, Champion of Nightglow, the player receives the relic 'Night of the Champion'",
+        "The report must mention that after defeating Caligo, Miasma of Night, the player receives the relic 'Night of the Miasma'",
+        "The report must mention that after defeating Heolstor the Nightlord, the player receives the relic 'Night of the Lord'"
+    ],
+
+    "all_nightreign_nightlord_main_elemental_weakness": [
+        "The report must mention that the main elemental weakness of Gladius, Beast of Night is Holy damage",
+        "The report must mention that the main elemental weakness of Adel, Baron of Night is Poison damage",
+        "The report must mention that the main elemental weakness of Gnoster, Wisdom of Night is Fire damage",
+        "The report must mention that the main elemental weakness of Maris, Fathom of Night is Lightning damage",
+        "The report must mention that the main elemental weakness of Libra, Creature of Night is Madness damage",
+        "The report must mention that the main elemental weakness of Fulghor, Champion of Nightglow is Lightning damage",
+        "The report must mention that the main elemental weakness of Caligo, Miasma of Night is Fire damage",
+        "The report must mention that the main elemental weakness of Heolstor the Nightlord is Holy damage"
+    ]
+}

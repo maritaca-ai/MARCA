@@ -1,0 +1,44 @@
+[
+    {
+        "id": "usa_notable_government_positions_1",
+        "question": "Can you list for me all the usa secretaries of education from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_education_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_2",
+        "question": "Can you list for me all the usa secretaries of state from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_state_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_3",
+        "question": "Can you list for me all the usa secretaries of commerce from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_commerce_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_4",
+        "question": "Can you list for me all the usa secretaries of energy from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_energy_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_5",
+        "question": "Can you list for me all the usa secretaries of health and human services from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_health_and_human_services_from_2018_until_2024"
+        ]
+    },
+    {
+        "id": "usa_notable_government_positions_6",
+        "question": "Can you list for me all the usa secretaries of transportation from the beginning of 2018 until the end of 2024? including short acting secretaries",
+        "checklist": [
+            "usa_secretary_of_transportation_from_2018_until_2024"
+        ]
+    }
+]

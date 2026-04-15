@@ -1,0 +1,39 @@
+{
+    "usa_secretary_of_education_from_2018_until_2024": [
+        "O relatório deve mencionar que Betsy DeVos foi secretária de Educação no período.",
+        "O relatório deve mencionar que Mick Zais foi secretário de Educação no período.",
+        "O relatório deve mencionar que Phil Rosenfelt foi secretário de Educação no período.",
+        "O relatório deve mencionar que Miguel Cardona foi secretário de Educação no período."
+    ],
+    "usa_secretary_of_state_from_2018_until_2024": [
+        "O relatório deve mencionar que Rex Tillerson foi secretário de Estado no período.",
+        "O relatório deve mencionar que John Sullivan foi secretário de Estado no período.",
+        "O relatório deve mencionar que Daniel Bennett Smith foi secretário de Estado no período.",
+        "O relatório deve mencionar que Antony Blinken foi secretário de Estado no período."
+    ],
+    "usa_secretary_of_commerce_from_2018_until_2024": [
+        "O relatório deve mencionar que Wilbur Ross foi secretário de Comércio no período.",
+        "O relatório deve mencionar que Wynn Coggins foi secretária de Comércio no período.",
+        "O relatório deve mencionar que Gina Raimondo foi secretária de Comércio no período."
+    ],
+    "usa_secretary_of_energy_from_2018_until_2024": [
+        "O relatório deve mencionar que Rick Perry foi secretário de Energia no período.",
+        "O relatório deve mencionar que Dan Brouillette foi secretário de Energia no período.",
+        "O relatório deve mencionar que David Huizenga foi secretário de Energia no período.",
+        "O relatório deve mencionar que Jennifer Granholm foi secretária de Energia no período."
+
+    ],
+    "usa_secretary_of_health_and_human_services_from_2018_until_2024": [
+        "O relatório deve mencionar que Eric Hargan foi secretário de Saúde e Serviços Humanos no período.",
+        "O relatório deve mencionar que Alex Azar foi secretário de Saúde e Serviços Humanos no período.",
+        "O relatório deve mencionar que Norris Cochran foi secretário de Saúde e Serviços Humanos no período.",
+        "O relatório deve mencionar que Xavier Becerra foi secretário de Saúde e Serviços Humanos no período."
+    ],
+
+    "usa_secretary_of_transportation_from_2018_until_2024": [
+        "O relatório deve mencionar que Elaine Chao foi secretária de Transportes no período.",
+        "O relatório deve mencionar que Steven G. Bradbury foi secretário de Transportes no período.",
+        "O relatório deve mencionar que Lana Hurdle foi secretária de Transportes no período.",
+        "O relatório deve mencionar que Pete Buttigieg foi secretário de Transportes no período."
+    ]
+}

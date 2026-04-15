@@ -1,0 +1,37 @@
+[
+    {
+        "id": "lib1_1",
+        "question": "Which Brazilian clubs qualified for the 2025 Copa Libertadores?",
+        "checklist": [
+            "libertadores_2025_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_2",
+        "question": "Which Brazilian clubs qualified for the 2023 Copa Libertadores?",
+        "checklist": [
+            "libertadores_2023_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_3",
+        "question": "Which Brazilian clubs qualified for the 2021 Copa Libertadores?",
+        "checklist": [
+            "libertadores_2021_brazilian_teams"
+        ]
+    },
+    {
+        "id": "lib1_4",
+        "question": "Across the 2025, 2023 and 2021 editions, which Brazilian clubs qualified for all three Copa Libertadores?",
+        "checklist": [
+            "libertadores_classified_2025_2023_2021"
+        ]
+    },
+    {
+        "id": "lib1_5",
+        "question": "Across the 2025, 2023 and 2021 Copa Libertadores, which Brazilian clubs qualified only once among those three years? Cite each club and the year in which it qualified.",
+        "checklist": [
+            "libertadores_classified_only_once_in_2025_2023_2021"
+        ]
+    }
+]

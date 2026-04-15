@@ -1,0 +1,79 @@
+[
+    {
+        "id": "scholar_citations_1",
+        "question": "What are the total citations, h-index, and i10-index of the second author of the Sabiá-3 technical report?",
+        "checklist": [
+            "thales_sales_almeida_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_2",
+        "question": "What are the total citations, h-index, and i10-index of the second author of the Sabiá-2 technical report?",
+        "checklist": [
+            "hugo_queiroz_abonizio_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_3",
+        "question": "What are the total citations, h-index, and i10-index of the second author of the paper 'Juru: Legal Brazilian large language model from reputable sources'?",
+        "checklist": [
+            "ramon_pires_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_4",
+        "question": "What are the total citations, h-index, and i10-index of the third author of the paper 'Bluex: A benchmark based on Brazilian leading universities entrance exams'?",
+        "checklist": [
+            "giovana_kerche_bonas_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_5",
+        "question": "Can you check the total citations, h-index, and i10-index of the fourth author of the paper 'Measuring cross-lingual transfer in bytes'?",
+        "checklist": [
+            "rodrigo_nogueira_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_6",
+        "question": "Can you check the total citations, h-index, and i10-index of the second author of the paper 'Exaranker: Explanation-augmented neural ranker'?",
+        "checklist": [
+            "thiago_laitz_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_7",
+        "question": "I want to know the total citations, h-index, and i10-index of the second author of the paper 'Cabrita: Closing the gap for foreign languages'.",
+        "checklist": [
+            "marcos_piau_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_8",
+        "question": "I want to know the total citations, h-index, and i10-index of the fifth author of the paper 'The chronicles of RAG: The retriever, the chunk and the generator'.",
+        "checklist": [
+            "celio_larcher_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_9",
+        "question": "I want to know the total citations, h-index, and i10-index of the first author of the paper 'Juru: Legal Brazilian large language model from reputable sources'.",
+        "checklist": [
+            "roseval_donisete_malaquias_junior_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_10",
+        "question": "I want to know the total citations and h-index of each author of the BLUEX benchmark paper.",
+        "checklist": [
+            "all_bluex_authors_scholar_info"
+        ]
+    },
+    {
+        "id": "scholar_citations_11",
+        "question": "I want to know the total citations and h-index of each author of the Sabiá-3 technical report.",
+        "checklist": [
+            "all_sabia3_report_authors_scholar_info"
+        ]
+    }
+]

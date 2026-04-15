@@ -1,0 +1,70 @@
+{
+    "82nd_golden_globes_film_winners": [
+        "The report must mention the film 'The Brutalist' as the winner of the 'Best Motion Picture – Drama' category",
+        "The report must mention the film 'Emilia Pérez' as the winner of the 'Best Motion Picture – Musical or Comedy' category",
+        "The report must mention the film 'Flow' as the winner of the 'Best Motion Picture – Animated' category",
+        "The report must mention the film 'Emilia Pérez' as the winner of the 'Best Motion Picture – Non-English Language' category",
+        "The report must mention the actor 'Adrien Brody' as the winner of the 'Best Actor in a Motion Picture – Drama' category",
+        "The report must mention the actress 'Fernanda Torres' as the winner of the 'Best Actress in a Motion Picture – Drama' category",
+        "The report must mention the actor 'Sebastian Stan' as the winner of the 'Best Actor in a Motion Picture – Musical or Comedy' category",
+        "The report must mention the actress 'Demi Moore' as the winner of the 'Best Actress in a Motion Picture – Musical or Comedy' category",
+        "The report must mention the actor 'Kieran Culkin' as the winner of the 'Best Supporting Actor in a Motion Picture' category",
+        "The report must mention the actress 'Zoe Saldaña' as the winner of the 'Best Supporting Actress in a Motion Picture' category",
+        "The report must mention the director 'Brady Corbet' as the winner of the 'Best Director' category",
+        "The report must mention the screenwriter 'Peter Straughan' as the winner of the 'Best Screenplay' category",
+        "The report must mention the composer 'Trent Reznor' as the winner of the 'Best Original Score' category",
+        "The report must mention the film 'Wicked' as the winner of the 'Cinematic and Box Office Achievement' category"
+    ],
+    "82nd_golden_globes_tv_winners": [
+        "The report must mention the series 'Shōgun' as the winner of the 'Best Television Series – Drama' category",
+        "The report must mention the series 'Hacks' as the winner of the 'Best Television Series – Musical or Comedy' category",
+        "The report must mention the series 'Baby Reindeer' as the winner of the 'Best Limited Series, Anthology Series, or Motion Picture Made for Television' category",
+        "The report must mention the actress 'Ali Wong' as the winner of the 'Best Performance in Stand-Up Comedy on Television' category",
+        "The report must mention the actor 'Hiroyuki Sanada' as the winner of the 'Best Actor in a Television Series – Drama' category",
+        "The report must mention the actress 'Anna Sawai' as the winner of the 'Best Actress in a Television Series – Drama' category",
+        "The report must mention the actor 'Jeremy Allen White' as the winner of the 'Best Actor in a Television Series – Musical or Comedy' category",
+        "The report must mention the actress 'Jean Smart' as the winner of the 'Best Actress in a Television Series – Musical or Comedy' category",
+        "The report must mention the actor 'Colin Farrell' as the winner of the 'Best Actor in a Limited Series, Anthology Series, or Motion Picture Made for Television' category",
+        "The report must mention the actress 'Jodie Foster' as the winner of the 'Best Actress in a Limited Series, Anthology Series, or Motion Picture Made for Television' category",
+        "The report must mention the actor 'Tadanobu Asano' as the winner of the 'Best Supporting Actor on Television' category",
+        "The report must mention the actress 'Jessica Gunning' as the winner of the 'Best Supporting Actress on Television' category"
+    ],
+
+    "multiple_winners_in_82nd_golden_globes": [
+        "The report must mention that the film 'Emilia Pérez' won more than one award",
+        "The report must mention that the film 'The Brutalist' won more than one award",
+        "The report must mention that the series 'Shōgun' won more than one award",
+        "The report must mention that the series 'Baby Reindeer' won more than one award",
+        "The report must mention that the series 'Hacks' won more than one award"     
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes": [
+        "The report must mention that the actor 'Colman Domingo' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actor 'Timothée Chalamet' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actor 'Gary Oldman' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actor 'Andrew Scott' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actress 'Jodie Foster' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actress 'Selena Gomez' was nominated in both the 81st and 82nd Golden Globes",
+        "The report must mention that the actor 'Ebon Moss-Bachrach' was nominated in both the 81st and 82nd Golden Globes"
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes_birth_year": [
+        "The report must mention that the actor 'Colman Domingo' was born in 1969",
+        "The report must mention that the actor 'Timothée Chalamet' was born in 1995",
+        "The report must mention that the actor 'Gary Oldman' was born in 1958",
+        "The report must mention that the actor 'Andrew Scott' was born in 1976",
+        "The report must mention that the actress 'Jodie Foster' was born in 1962",
+        "The report must mention that the actress 'Selena Gomez' was born in 1992",
+        "The report must mention that the actor 'Ebon Moss-Bachrach' was born in 1977"
+    ],
+
+    "actors_nominated_for_both_81_and_82_golden_globes_nationality": [
+        "The report must mention that the actor 'Colman Domingo' is American",
+        "The report must mention that the actor 'Timothée Chalamet' is American and French",
+        "The report must mention that the actor 'Gary Oldman' is British",
+        "The report must mention that the actor 'Andrew Scott' is irish",
+        "The report must mention that the actress 'Jodie Foster' is American",
+        "The report must mention that the actress 'Selena Gomez' is American",
+        "The report must mention that the actor 'Ebon Moss-Bachrach' is American"
+    ]
+}

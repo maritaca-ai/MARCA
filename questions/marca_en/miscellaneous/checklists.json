@@ -1,0 +1,67 @@
+{
+    "brazillian_swimmers_that_won_a_medal": [
+        "The report must mention Ricardo Prado.",
+        "The report must mention Gustavo Borges.",
+        "The report must mention Fernando Scherer.",
+        "The report must mention César Cielo Filho.",
+        "The report must mention Thiago Pereira.",
+        "The report must mention Bruno Fratus.",
+        "The report must mention Fernando Scheffer."
+    ],
+
+    "brazillian_swimmers_that_won_a_medal_details": [
+        "The report must mention that Ricardo Prado won a silver medal in the 400m medley at the 1984 Los Angeles Olympics.",
+        "The report must mention that Gustavo Borges won a silver medal in the 100m freestyle at the 1992 Barcelona Olympics.",
+        "The report must mention that Gustavo Borges won a silver medal in the 200m freestyle at the 1996 Atlanta Olympics.",
+        "The report must mention that Gustavo Borges won a bronze medal in the 100m freestyle at the 1996 Atlanta Olympics.",
+        "The report must mention that Fernando Scherer won a bronze medal in the 50m freestyle at the 1996 Atlanta Olympics.",
+        "The report must mention that César Cielo Filho won a gold medal in the 50m freestyle at the 2008 Beijing Olympics.",
+        "The report must mention that César Cielo Filho won a bronze medal in the 100m freestyle at the 2008 Beijing Olympics.",
+        "The report must mention that César Cielo Filho won a bronze medal in the 50m freestyle at the 2012 London Olympics.",
+        "The report must mention that Thiago Pereira won a silver medal in the 400m medley at the 2012 London Olympics.",
+        "The report must mention that Bruno Fratus won a bronze medal in the 50m freestyle at the 2020 Tokyo Olympics.",
+        "The report must mention that Fernando Scheffer won a bronze medal in the 200m freestyle at the 2020 Tokyo Olympics."
+    ],
+    "models_decoder_only_portuguese_2024": [
+        "The report must mention Sabiá.",
+        "The report must mention Sabiá-2.",
+        "The report must mention Sabiá-3.",
+        "The report must mention Cabra.",
+        "The report must mention Cabrita.",
+        "The report must mention Canarim.",
+        "The report must mention Bode.",
+        "The report must mention TeenyTinyLlama.",
+        "The report must mention Glória.",
+        "The report must mention Gervásio.",
+        "The report must mention Juru.",
+        "The report must mention Amazonia.",
+        "The report must mention Sapiens Chat.",
+        "The report must mention SoberanIA.",
+        "The report must mention Boto.",
+        "The report must mention Lloro."
+    ],
+    "movies_with_directors_not_from_europe": [
+        "The report must mention Anora.",
+        "The report must mention The Brutalist.",
+        "The report must mention A Complete Unknown.",
+        "The report must mention Dune: Part Two.",
+        "The report must mention I'm Still Here.",
+        "The report must mention Nickel Boys.",
+        "The report must mention Wicked."
+    ],
+    "foreign_players_with_more_than_10_goals_in_2024": [
+        "The report must mention the player Gonzalo Mastriani.",
+        "The report must mention the player Ángel Romero.",
+        "The report must mention the player Isidro Pitta.",
+        "The report must mention the player Juan Martín Lucero.",
+        "The report must mention the player José Manuel 'Flaco' López.",
+        "The report must mention the player Pablo Vegetti."
+    ],
+    "coaches_not_from_italy": [
+        "The report must mention coach Zlatko Dalić.",
+        "The report must mention coach Thomas Tuchel.",
+        "The report must mention coach Walid Regragui.",
+        "The report must mention coach Ronald Koeman.",
+        "The report must mention coach Roberto Martínez."
+    ]
+}

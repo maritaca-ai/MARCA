@@ -1,0 +1,194 @@
+{
+    "thales_sales_almeida_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=GFZ5iz8AAAAJ&hl",
+                "name": "Thales Sales Almeida"
+            }
+        }
+    ],
+    "ramon_pires_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=ZVgyp7AAAAAJ&hl=en",
+                "name": "Ramon Pires"
+            }
+        }
+    ],
+    "hugo_queiroz_abonizio_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=yZvUzSoAAAAJ&hl=en",
+                "name": "Hugo Queiroz Abonizio"
+            }
+        }
+    ],
+    "rodrigo_nogueira_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=xD32wZ8AAAAJ&hl=en",
+                "name": "Rodrigo Nogueira"
+            }
+        }
+    ],
+    "thiago_laitz_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=J2d6LqEAAAAJ&hl=en",
+                "name": "Thiago Laitz"
+            }
+        }
+    ],
+    "celio_larcher_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=7e4C_rQAAAAJ&hl=en",
+                "name": "Celio Larcher"
+            }
+        }
+    ],
+    "marcos_piau_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=wdiYu1oAAAAJ&hl=en",
+                "name": "Marcos Piau"
+            }
+        }
+    ],
+    "giovana_kerche_bonas_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=3K00JYoAAAAJ&hl=en",
+                "name": "Giovana Kerche Bonas"
+            }
+        }
+    ],
+    "roseval_donisete_malaquias_junior_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=SJ4l1RcAAAAJ&hl=en",
+                "name": "Roseval Donisete Malaquias Junior"
+            }
+        }
+    ],
+    "all_bluex_authors_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=GFZ5iz8AAAAJ&hl",
+                "name": "Thales Sales Almeida",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=3K00JYoAAAAJ&hl=en",
+                "name": "Giovana Kerche Bonas",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=J2d6LqEAAAAJ&hl=en",
+                "name": "Thiago Laitz",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=xD32wZ8AAAAJ&hl=en",
+                "name": "Rodrigo Nogueira",
+                "include_i10_index": false
+            }
+        }
+    ],
+    "all_sabia3_report_authors_scholar_info": [
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=GFZ5iz8AAAAJ&hl",
+                "name": "Thales Sales Almeida",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=3K00JYoAAAAJ&hl=en",
+                "name": "Giovana Kerche Bonas",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=J2d6LqEAAAAJ&hl=en",
+                "name": "Thiago Laitz",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=xD32wZ8AAAAJ&hl=en",
+                "name": "Rodrigo Nogueira",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=yZvUzSoAAAAJ&hl=en",
+                "name": "Hugo Queiroz Abonizio",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=SJ4l1RcAAAAJ&hl=en",
+                "name": "Roseval Donisete Malaquias Junior",
+                "include_i10_index": false
+            }
+        },
+        {
+            "type": "dynamic_retrieval",
+            "class": "ScholarCitationChecklist",
+            "parameters": {
+                "url": "https://scholar.google.com/citations?user=ZVgyp7AAAAAJ&hl=en",
+                "name": "Ramon Pires"
+            }
+        }
+    ]
+}

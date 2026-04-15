@@ -1,0 +1,38 @@
+[
+    {
+        "id": "misc1_1",
+        "question": "Which Brazilian swimmers earned individual medals in Olympic swimming events between the 1980 and 2024 Games? Consider only individual races (exclude relays) and include gold, silver, or bronze results. For each athlete provide: (1) full name, (2) Olympic edition, (3) event, (4) medal type, and (5) finishing time. Ignore aquatic disciplines other than pool swimming (e.g., open-water swimming, water polo, artistic swimming, or diving).",
+        "checklist": [
+            "brazillian_swimmers_that_won_a_medal",
+            "brazillian_swimmers_that_won_a_medal_details"
+        ]
+    },
+    {
+        "id": "misc1_2",
+        "question": "Which decoder-only (GPT-like) language models for Portuguese were released by the end of 2024? Exclude encoder-only (BERT-like) and encoder-decoder (T5-like) models. The model may be public (open weights on Hugging Face or GitHub) or private (available only via API or described in technical reports, papers, or blog posts). It may be a finetune/further pretraining of another base model or trained from scratch.",
+        "checklist": [
+            "models_decoder_only_portuguese_2024"
+        ]
+    },
+    {
+        "id": "misc1_3",
+        "question": "Among the ten Best Picture nominees at the 2025 Oscars, which films have at least one director born outside Europe?",
+        "checklist": [
+            "movies_with_directors_not_from_europe"
+        ]
+    },
+    {
+        "id": "misc1_4",
+        "question": "In the 2024 Brasileirão, which clubs have foreign players (not born in Brazil) who scored more than 10 goals during the season?",
+        "checklist": [
+            "foreign_players_with_more_than_10_goals_in_2024"
+        ]
+    },
+    {
+        "id": "misc1_5",
+        "question": "Among the eight national teams that reached the quarterfinals of the 2022 World Cup, which are currently coached by managers who never played professionally in Italy?",
+        "checklist": [
+            "coaches_not_from_italy"
+        ]
+    }
+]

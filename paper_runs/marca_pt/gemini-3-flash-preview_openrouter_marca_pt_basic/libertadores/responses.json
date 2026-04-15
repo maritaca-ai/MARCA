@@ -1,0 +1,242 @@
+[
+    {
+        "id": "lib1_1_1",
+        "original_id": "lib1_1",
+        "generation": 1,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2025?",
+        "response": "Até o momento, **7 dos 9 clubes brasileiros** que disputarão a Copa Libertadores 2025 já estão garantidos.\n\nAs vagas foram preenchidas através do título da Copa do Brasil e da posição na tabela do Campeonato Brasileiro (Série A). Confira os classificados:\n\n### Já classificados (7 vagas):\n1.  **Flamengo:** Campeão da Copa do Brasil 2024.\n2.  **Botafogo:** Garantido via G-6 do Brasileirão (atualmente briga pelo título).\n3.  **Palmeiras:** Garantido via G-6 do Brasileirão.\n4.  **Fortaleza:** Garantido via G-6 do Brasileirão.\n5.  **Internacional:** Garantido via G-6 do Brasileirão.\n6.  **São Paulo:** Garantido via G-6 do Brasileirão.\n7.  **Bahia:** Garantido (com a abertura do G-9, o clube já não sai mais da zona de classificação).\n\n---\n\n### Como serão definidas as últimas 2 vagas?\n\nO Brasil pode ter até 9 representantes em 2025. As duas últimas vagas dependem dos seguintes cenários:\n\n*   **Vaga via Título da Libertadores 2024:** O vencedor da final entre **Botafogo x Atlético-MG** garante vaga direta. Se o Botafogo vencer (já classificado pelo Brasileirão), a vaga \"extra\" vai para o próximo time na tabela do Campeonato Brasileiro. Se o Atlético-MG vencer, ele carimba sua vaga.\n*   **Vaga via Título da Sul-Americana 2024:** O **Cruzeiro** disputa a final contra o Racing (ARG). Se o Cruzeiro for campeão, garante vaga direta na fase de grupos da Libertadores 2025.\n*   **Vagas via Brasileirão (G-7, G-8 ou G-9):** Dependendo de quem vencer a Libertadores e a Sul-Americana, a zona de classificação no Campeonato Brasileiro pode chegar até o 9º colocado. No momento, o **Cruzeiro** (via tabela) e o **Corinthians** são os principais candidatos a essas últimas vagas caso os títulos continentais favoreçam a abertura da tabela.\n\n**Resumo atual:** Flamengo, Botafogo, Palmeiras, Fortaleza, Internacional, São Paulo e Bahia estão dentro. Atlético-MG e Cruzeiro buscam a vaga prioritariamente através dos títulos das finais que disputarão no final de novembro.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 541,
+            "total_tokens": 689,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_2_1",
+        "original_id": "lib1_2",
+        "generation": 1,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2023?",
+        "response": "Para a Copa Libertadores de 2023, o Brasil teve direito a **8 vagas**. Os times classificados foram definidos pelo desempenho no Campeonato Brasileiro de 2022, na Copa do Brasil de 2022 e na própria Libertadores de 2022.\n\nOs times classificados foram:\n\n### Fase de Grupos (Vagas diretas):\n1.  **Flamengo** (Campeão da Libertadores 2022 e da Copa do Brasil 2022)\n2.  **Palmeiras** (Campeão do Brasileirão 2022)\n3.  **Internacional** (Vice-campeão do Brasileirão 2022)\n4.  **Fluminense** (3º colocado do Brasileirão 2022)\n5.  **Corinthians** (4º colocado do Brasileirão 2022)\n6.  **Athletico-PR** (6º colocado do Brasileirão 2022 - herdou vaga pois o Flamengo, no G-4, já tinha vaga por títulos)\n\n### Fase Preliminar (\"Pré-Libertadores\"):\n7.  **Atlético-MG** (7º colocado do Brasileirão 2022)\n8.  **Fortaleza** (8º colocado do Brasileirão 2022)\n\n**Observação:** O Atlético-MG conseguiu avançar para a fase de grupos através das eliminatórias, enquanto o Fortaleza foi eliminado na última fase prévia e acabou disputando a Copa Sul-Americana naquele ano.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 341,
+            "total_tokens": 489,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_1_2",
+        "original_id": "lib1_1",
+        "generation": 2,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2025?",
+        "response": "Até o momento, **7 das 9 vagas** destinadas ao Brasil para a Copa Libertadores 2025 já foram preenchidas.\n\nOs times brasileiros classificados são:\n\n1.  **Botafogo** (via Campeonato Brasileiro)\n2.  **Palmeiras** (via Campeonato Brasileiro)\n3.  **Flamengo** (Campeão da Copa do Brasil 2024)\n4.  **Fortaleza** (via Campeonato Brasileiro)\n5.  **Internacional** (via Campeonato Brasileiro)\n6.  **São Paulo** (via Campeonato Brasileiro)\n7.  **Cruzeiro** (Campeão da Copa Sul-Americana 2024)\n\n### Como serão definidas as últimas vagas?\n\nO Brasil tem direito a 7 vagas fixas, mas esse número aumentou para **9** este ano porque o Flamengo (campeão da Copa do Brasil) e o Cruzeiro (campeão da Sul-Americana) já estão no G-6 do Brasileirão, abrindo novas vagas na tabela.\n\nAs duas vagas restantes serão ocupadas da seguinte forma:\n\n*   **Pelo Campeonato Brasileiro:** As vagas restantes serão distribuídas conforme a classificação final do campeonato (atualmente o G-9). O **Bahia** e o **Corinthians** são os principais candidatos no momento.\n*   **Pela final da Libertadores 2024:** O **Atlético-MG** pode se classificar caso vença o Botafogo na final deste ano (dia 30/11).\n    *   *Se o Botafogo for campeão:* Ele já está classificado, então a vaga extra vai para o próximo time na tabela do Brasileirão.\n    *   *Se o Atlético-MG for campeão:* Ele garante a vaga direta, mesmo estando em posição inferior na tabela.\n\n**Resumo da situação atual:**\n*   **Fase de Grupos garantida:** Palmeiras, Botafogo, Flamengo, Fortaleza, Cruzeiro e Internacional.\n*   **Pré-Libertadores:** São Paulo (por enquanto, pode subir para a fase de grupos dependendo do fechamento do G-6).",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 464,
+            "total_tokens": 612,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_1_3",
+        "original_id": "lib1_1",
+        "generation": 3,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2025?",
+        "response": "Até o momento, o Brasil tem **7 times garantidos** na Copa Libertadores 2025. O país terá, no mínimo, 7 vagas, podendo chegar a 9 dependendo dos resultados das finais das copas continentais deste ano.\n\nOs times já classificados são:\n\n1.  **Flamengo:** Campeão da Copa do Brasil 2024.\n2.  **Botafogo:** Garantido via Campeonato Brasileiro (atualmente lidera e não sai mais do G-6).\n3.  **Palmeiras:** Garantido via Campeonato Brasileiro.\n4.  **Fortaleza:** Garantido via Campeonato Brasileiro (primeira vez que um time do Nordeste se classifica por três anos para a Liberta).\n5.  **Internacional:** Garantido via Campeonato Brasileiro.\n6.  **São Paulo:** Garantido via Campeonato Brasileiro.\n7.  **Cruzeiro:** Garantido por ser o **Campeão da Copa Sul-Americana 2024**.\n\n---\n\n### Como as vagas podem aumentar (O \"G-9\"):\nO número de brasileiros pode aumentar para 8 ou 9 devido às finais deste ano:\n\n*   **Final da Libertadores 2024 (Botafogo x Atlético-MG):** \n    *   Se o **Botafogo** for campeão: Ele já está classificado via Brasileirão, então a vaga do título \"sobe\" e abre mais uma vaga na tabela do Campeonato Brasileiro (transformando o G-6 em G-7).\n    *   Se o **Atlético-MG** for campeão: Ele garante a vaga direta como detentor do título e o Brasil passa a ter mais um representante.\n\n### No cenário atual do Brasileirão:\nComo Botafogo e Flamengo (campeões ou finalistas) já estão no topo da tabela, é praticamente certo que o **G-6 do Brasileirão se tornará um G-8 ou até G-9**, o que daria chances para times como Bahia, Corinthians ou Vasco buscarem uma vaga nas últimas rodadas.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 442,
+            "total_tokens": 590,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_2_2",
+        "original_id": "lib1_2",
+        "generation": 2,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2023?",
+        "response": "Para a Copa Libertadores da América de 2023, o Brasil teve direito a **8 vagas** (7 vagas regulares + a vaga extra do Flamengo por ter sido o campeão da edição de 2022).\n\nOs times classificados foram:\n\n1.  **Palmeiras** (Campeão do Brasileirão 2022)\n2.  **Internacional** (Vice-campeão do Brasileirão 2022)\n3.  **Fluminense** (3º colocado do Brasileirão 2022)\n4.  **Corinthians** (4º colocado do Brasileirão 2022)\n5.  **Flamengo** (Campeão da Libertadores 2022 e da Copa do Brasil 2022)\n6.  **Athletico-PR** (6º colocado do Brasileirão 2022)\n7.  **Atlético-MG** (7º colocado do Brasileirão 2022 - começou na Pré-Libertadores)\n8.  **Fortaleza** (8º colocado do Brasileirão 2022 - começou na Pré-Libertadores)\n\n**Observações:**\n*   As equipes do **Atlético-MG** e do **Fortaleza** disputaram as fases preliminares. O Atlético-MG avançou para a fase de grupos, enquanto o Fortaleza foi eliminado nesta etapa e migrou para a Copa Sul-Americana.\n*   O **Fluminense** acabou se tornando o campeão desta edição de 2023, vencendo o Boca Juniors na final no Maracanã.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 352,
+            "total_tokens": 500,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_2_3",
+        "original_id": "lib1_2",
+        "generation": 3,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2023?",
+        "response": "Para a Copa Libertadores de 2023, o Brasil teve direito a **8 vagas**. Os times classificados foram definidos pelo desempenho no Campeonato Brasileiro de 2022, na Copa do Brasil de 2022 e na própria Libertadores de 2022.\n\nOs times que se classificaram foram:\n\n### Fase de Grupos (Vagas Diretas):\n1.  **Flamengo** (Campeão da Libertadores 2022 e da Copa do Brasil 2022)\n2.  **Palmeiras** (Campeão do Brasileirão 2022)\n3.  **Internacional** (Vice-campeão do Brasileirão)\n4.  **Fluminense** (3º colocado no Brasileirão)\n5.  **Corinthians** (4º colocado no Brasileirão)\n6.  **Athletico-PR** (6º colocado no Brasileirão - herdou a vaga direta pois o Flamengo, campeão das copas, estava no G4)\n\n### Fase Preliminar (Pré-Libertadores):\n7.  **Atlético-MG** (7º colocado no Brasileirão)\n8.  **Fortaleza** (8º colocado no Brasileirão)\n\n**Observação:** O Atlético-MG conseguiu avançar da fase preliminar para a fase de grupos, enquanto o Fortaleza foi eliminado na última fase classificatória (pelo Cerro Porteño) e acabou disputando a Copa Sul-Americana naquele ano.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 321,
+            "total_tokens": 469,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_3_1",
+        "original_id": "lib1_3",
+        "generation": 1,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2021?",
+        "response": "Para a Copa Libertadores da América de 2021, o Brasil teve direito a **8 vagas** (7 via competições nacionais e 1 adicional por o Palmeiras ter sido o campeão da edição de 2020).\n\nOs times classificados foram:\n\n1.  **Palmeiras** (Campeão da Libertadores 2020 e da Copa do Brasil 2020)\n2.  **Flamengo** (Campeão do Brasileirão 2020)\n3.  **Internacional** (Vice-campeão do Brasileirão 2020)\n4.  **Atlético-MG** (3º colocado do Brasileirão 2020)\n5.  **São Paulo** (4º colocado do Brasileirão 2020)\n6.  **Fluminense** (5º colocado do Brasileirão 2020)\n7.  **Grêmio** (6º colocado do Brasileirão 2020 - jogou a Pré-Libertadores)\n8.  **Santos** (8º colocado do Brasileirão 2020* - jogou a Pré-Libertadores)\n\n*Observação: O Santos herdou a vaga do G8 porque o Palmeiras, campeão da Copa do Brasil e da Libertadores, já estava no G6, abrindo novas vagas via Campeonato Brasileiro.*",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 299,
+            "total_tokens": 447,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_3_3",
+        "original_id": "lib1_3",
+        "generation": 3,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2021?",
+        "response": "Para a Copa Libertadores de 2021, o Brasil teve direito a **8 vagas** (7 originais mais a vaga do campeão da edição anterior).\n\nOs times brasileiros classificados foram:\n\n1.  **Palmeiras:** Campeão da Libertadores 2020.\n2.  **Flamengo:** Campeão do Campeonato Brasileiro 2020.\n3.  **Internacional:** Vice-campeão do Campeonato Brasileiro 2020.\n4.  **Atlético-MG:** 3º colocado do Campeonato Brasileiro 2020.\n5.  **São Paulo:** 4º colocado do Campeonato Brasileiro 2020.\n6.  **Fluminense:** 5º colocado do Campeonato Brasileiro 2020.\n7.  **Grêmio:** 6º colocado do Campeonato Brasileiro 2020 (entrou na fase preliminar).\n8.  **Santos:** 8º colocado do Campeonato Brasileiro 2020 (entrou na fase preliminar via G-8, pois o Palmeiras, campeão da Copa do Brasil, já estava classificado).\n\n**Resumo do desempenho:**\n*   Desses oito, apenas o **Grêmio** não avançou para a fase de grupos, sendo eliminado pelo Independiente del Valle na terceira fase preliminar.\n*   A final daquela edição foi disputada entre dois brasileiros, **Palmeiras e Flamengo**, com o Palmeiras sagrando-se bicampeão consecutivo.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 322,
+            "total_tokens": 470,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_3_2",
+        "original_id": "lib1_3",
+        "generation": 2,
+        "question": "Quais times brasileiros se classificaram para a Copa Libertadores 2021?",
+        "response": "O Brasil teve um total de **9 representantes** na Copa Libertadores de 2021. As vagas foram distribuídas através do Campeonato Brasileiro de 2020, da Copa do Brasil 2020 e pelo fato de o Palmeiras ter sido o campeão da Libertadores anterior.\n\nOs times classificados foram:\n\n1.  **Palmeiras** (Campeão da Libertadores 2020 e da Copa do Brasil 2020)\n2.  **Flamengo** (Campeão do Brasileirão 2020)\n3.  **Internacional** (Vice-campeão do Brasileirão)\n4.  **Atlético-MG** (3º colocado do Brasileirão)\n5.  **São Paulo** (4º colocado do Brasileirão)\n6.  **Fluminense** (5º colocado do Brasileirão)\n7.  **Grêmio** (6º colocado do Brasileirão - entrou na fase preliminar)\n8.  **Santos** (8º colocado do Brasileirão - entrou na fase preliminar)*\n9.  **Chapecoense** (Como o Palmeiras venceu a Copa do Brasil e já tinha vaga, abriu-se uma vaga extra via campeonato, mas apenas os times da Série A participaram. Na verdade, o **Athletico-PR** (9º) não herdou a vaga; a vaga foi para o **Santos** via G-8).\n\n**Resumo da fase de entrada:**\n*   **Fase de Grupos:** Palmeiras, Flamengo, Internacional, Atlético-MG, São Paulo e Fluminense.\n*   **Fase Preliminar (Pré-Libertadores):** Grêmio e Santos.\n\n*Curiosidade: O Palmeiras acabou se tornando o campeão daquela edição (2021), vencendo o Flamengo na final em Montevidéu.*",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 148,
+            "completion_tokens": 404,
+            "total_tokens": 552,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_4_1",
+        "original_id": "lib1_4",
+        "generation": 1,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram para todas as tres edições?",
+        "response": "Os times brasileiros que se classificaram para as edições de **2021, 2023 e 2025** da Copa Libertadores são:\n\n1.  **Palmeiras**\n2.  **Flamengo**\n3.  **Atlético-MG**\n\n### Detalhes da sequência:\n\n*   **Palmeiras:** Detém o recorde de classificações consecutivas entre os brasileiros. Participa ininterruptamente desde 2016.\n*   **Flamengo:** Participa ininterruptamente desde 2017.\n*   **Atlético-MG:** Garantiu a vaga para 2025 via Campeonato Brasileiro ou pela possibilidade de título da edição de 2024 (onde é finalista), mantendo a sequência iniciada em 2021.\n\n**Por que outros times não entraram na lista?**\n*   O **Fluminense** esteve em 2021 e 2023, mas não se classificou para 2025 até o momento (precisaria vencer a edição atual ou subir drasticamente no Brasileiro, o que matematicamente é improvável para o G-6/G-9).\n*   O **Botafogo** está em 2025 e esteve em 2024, mas não participou em 2021 e 2023.\n*   O **São Paulo** jogará em 2025 e jogou em 2021, mas ficou de fora em 2023.\n*   O **Fortaleza** jogará em 2025 e jogou em 2023, mas não participou em 2021.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 168,
+            "completion_tokens": 379,
+            "total_tokens": 547,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_4_3",
+        "original_id": "lib1_4",
+        "generation": 3,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram para todas as tres edições?",
+        "response": "Os times brasileiros que se classificaram para as edições de **2021, 2023 e 2025** da Copa Libertadores são:\n\n1.  **Palmeiras**\n2.  **Flamengo**\n3.  **Atlético-MG**\n\n### Detalhes da sequência:\n*   **Palmeiras:** Possui uma das sequências mais longas da história, classificando-se consecutivamente desde 2016.\n*   **Flamengo:** Mantém uma presença constante na fase de grupos desde 2017.\n*   **Atlético-MG:** Garantiu a vaga em 2021 (via Brasileiro), 2023 (via Brasileiro) e 2025 (já garantido por estar no G-4 ou via título, dependendo do fechamento da tabela, mas matematicamente confirmado).\n\n**Por que outros grandes ficaram de fora?**\n*   **Fluminense:** Participou em 2021 e 2023 (onde foi campeão), mas não se classificou para a edição de 2025.\n*   **São Paulo:** Esteve em 2021 e está garantido em 2025, mas não participou em 2023.\n*   **Internacional:** Participou em 2021 e 2023, mas ficou de fora da edição de 2024 e ainda busca confirmar vaga para 2025 (embora não tenha jogado todas as três citadas).\n*   **Botafogo** e **Fortaleza:** Estão em 2025 e estiveram em uma das outras edições (2023 ou 2021), mas não nas três simultaneamente.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 168,
+            "completion_tokens": 391,
+            "total_tokens": 559,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_5_1",
+        "original_id": "lib1_5",
+        "generation": 1,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram apenas uma vez entre os 3 anos? cite cada time e o ano em que ele se classificou",
+        "response": "Para responder a essa pergunta, precisamos primeiro listar os times brasileiros que se classificaram para cada uma das edições mencionadas:\n\n*   **2021 (8 times):** Palmeiras, Flamengo, Internacional, Atlético-MG, São Paulo, Fluminense, Santos e Grêmio.\n*   **2023 (8 times):** Palmeiras, Flamengo, Internacional, Atlético-MG, Corinthians, Fluminense, Athletico-PR e Fortaleza.\n*   **2025 (até o momento, 7 times garantidos):** Palmeiras, Flamengo, Fluminense, Botafogo, Fortaleza, São Paulo e Internacional.\n\n*(Nota: A lista de 2025 considera os times já garantidos via Brasileirão e os campeões de 2023/24 que têm vaga. O número de brasileiros em 2025 pode chegar a 9 dependendo da final da Libertadores atual).*\n\nCom base nas listas acima, os times que aparecem em **apenas um** desses três anos são:\n\n1.  **Santos:** Classificou-se apenas em **2021**.\n2.  **Grêmio:** Classificou-se apenas em **2021**.\n3.  **Corinthians:** Classificou-se apenas em **2023**.\n4.  **Athletico-PR:** Classificou-se apenas em **2023**.\n5.  **Botafogo:** Classificou-se apenas em **2025**.\n\n**Resumo da análise:**\n*   **Palmeiras, Flamengo e Fluminense:** Estão nos três anos.\n*   **Internacional:** Está nos três anos.\n*   **Atlético-MG:** Está em 2021 e 2023 (pode entrar em 2025 se vencer a final atual ou via G7, o que o tiraria da lista de \"uma vez apenas\").\n*   **São Paulo:** Está em 2021 e 2025.\n*   **Fortaleza:** Está em 2023 e 2025.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 182,
+            "completion_tokens": 468,
+            "total_tokens": 650,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_5_3",
+        "original_id": "lib1_5",
+        "generation": 3,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram apenas uma vez entre os 3 anos? cite cada time e o ano em que ele se classificou",
+        "response": "Para responder a essa pergunta, primeiro precisamos listar os times brasileiros que se classificaram para cada uma dessas edições (lembrando que para 2025, as vagas já estão definidas via Campeonato Brasileiro 2024, Copa do Brasil e títulos continentais).\n\nAqui estão os participantes brasileiros em cada ano:\n\n*   **2021:** Palmeiras, Flamengo, Atlético-MG, São Paulo, Fluminense, Internacional, Santos e Grêmio.\n*   **2023:** Flamengo, Palmeiras, Internacional, Fluminense, Corinthians, Athletico-PR, Atlético-MG e Fortaleza.\n*   **2025:** Flamengo, Botafogo, Palmeiras, Fortaleza, São Paulo, Internacional, Cruzeiro e Atlético-MG.\n\n---\n\n### Times que se classificaram APENAS UMA VEZ entre esses 3 anos:\n\nEstes são os clubes que aparecem em apenas uma das listas acima:\n\n1.  **Santos:** Classificou-se apenas em **2021**.\n2.  **Grêmio:** Classificou-se apenas em **2021**.\n3.  **Corinthians:** Classificou-se apenas em **2023**.\n4.  **Athletico-PR:** Classificou-se apenas em **2023**.\n5.  **Botafogo:** Classificou-se apenas em **2025**.\n6.  **Cruzeiro:** Classificou-se apenas em **2025**.\n\n---\n\n**Observações sobre os outros times:**\n*   **Flamengo, Palmeiras e Atlético-MG:** Classificaram-se nos três anos (2021, 2023 e 2025).\n*   **Internacional:** Classificou-se nos três anos (2021, 2023 e 2025).\n*   **Fluminense:** Classificou-se duas vezes (2021 e 2023).\n*   **São Paulo:** Classificou-se duas vezes (2021 e 2025).\n*   **Fortaleza:** Classificou-se duas vezes (2023 e 2025).",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 182,
+            "completion_tokens": 494,
+            "total_tokens": 676,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_5_2",
+        "original_id": "lib1_5",
+        "generation": 2,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram apenas uma vez entre os 3 anos? cite cada time e o ano em que ele se classificou",
+        "response": "Para responder a essa pergunta, primeiro identificamos todos os clubes brasileiros que se classificaram para a fase de grupos (ou fases preliminares) em cada um desses anos.\n\nVale lembrar que, para **2025**, as vagas ainda estão sendo preenchidas via Brasileirão, mas já temos 4 times garantidos (via títulos de copas ou pontuação matemática).\n\nAqui estão os times brasileiros que se classificaram para a Libertadores em **apenas um** desses três anos específicos:\n\n### **Classificados apenas em 2021**\n*   **Santos:** Classificou-se via Brasileirão 2020. Ficou de fora em 2023 e não tem chances para 2025.\n*   **Internacional:** Classificou-se em 2021. Em 2023 também participou, mas em 2025 jogará a Sul-Americana (logo, ele não entra nesta lista por ter 2 participações). *Retificando:* O Internacional esteve em 2021 e 2023, então está fora.\n\n### **Classificados apenas em 2023**\n*   **Corinthians:** Classificou-se via Brasileirão 2022. Não participou em 2021 e não tem chances de vaga para 2025.\n*   **Athletico-PR:** Classificou-se em 2023 (e também em 2022). Em 2021 ele venceu a Sul-Americana, mas a vaga conquistada foi para a edição de 2022. Portanto, considerando apenas a lista 21/23/25, ele aparece apenas em 2023.\n\n### **Classificados apenas em 2025 (até o momento)**\n*   **Botafogo:** O time garantiu sua vaga para 2025. Em 2021 estava na Série B e em 2023 não se classificou para a Libertadores (disputou a Sul-Americana). \n    * *Nota: O Botafogo disputou a Libertadores 2024, mas como o recorte é especificamente 2021, 2023 e 2025, ele conta como \"apenas uma vez\" dentro desse grupo.*\n\n---\n\n### **Resumo da lista (Times com 1 única participação no recorte):**\n\n1.  **Santos:** Apenas em **2021**.\n2.  **Corinthians:** Apenas em **2023**.\n3.  **Athletico-PR:** Apenas em **2023**.\n4.  **Botafogo:** Apenas em **2025**.\n\n**Observações importantes:**\n*   Times como **Palmeiras, Flamengo, Atlético-MG e Fluminense** se classificaram nos três anos citados (ou já estão garantidos em 2025).\n*   O **São Paulo** se classificou em 2021 e 2025 (duas vezes).\n*   O **Fortaleza** se classificou em 2023 e 2025 (duas vezes).\n*   O **Grêmio** se classificou em 2021 e ainda luta por vaga em 2025, podendo sair desta lista ou entrar nela dependendo do fim do campeonato atual.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 182,
+            "completion_tokens": 756,
+            "total_tokens": 938,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    {
+        "id": "lib1_4_2",
+        "original_id": "lib1_4",
+        "generation": 2,
+        "question": "Dentre a libertadores de 2025, 2023 e 2021, quais times brasileiros se classificaram para todas as tres edições?",
+        "response": "Os times brasileiros que se classificaram para as três edições citadas (2021, 2023 e 2025) são:\n\n1.  **Palmeiras**\n2.  **Flamengo**\n3.  **Atlético-MG**\n4.  **Fluminense**\n\n### Explicação baseada nas participações:\n\n*   **Palmeiras:** Recordista de classificações consecutivas, esteve em todas desde 2016.\n*   **Flamengo:** Classificado via G4 ou títulos (Copa do Brasil/Libertadores) em todos os últimos anos.\n*   **Atlético-MG:** Garantiu vaga em 2021 (G4), 2023 (G7) e agora em 2025 (pode entrar via G-6 do Brasileirão ou se vencer a final da Libertadores 2024, mas matematicamente já possui os critérios de pontuação ou posição para estar na disputa/fase preliminar no pior dos cenários, além de ser finalista da atual edição).\n*   **Fluminense:** Participou em 2021 (voltou à competição após longo hiato), foi o campeão em 2023 e garantiu a vaga para 2025 por ser o atual campeão da edição de 2023 (o que lhe deu a vaga de 2024 e, pela combinação de resultados e ranking, o Brasil tem mantido esses times no topo). *Nota: O Fluminense garantiu participação direta em 2025 por critérios de desempenho e vagas recorrentes do futebol brasileiro.*\n\n**Times que ficaram de fora de pelo menos uma:**\n*   **São Paulo:** Não participou em 2023 (jogou a Sul-Americana).\n*   **Corinthians:** Não participou em 2021 e não estará em 2025.\n*   **Internacional:** Não participou em 2025 (está fora da zona de classificação até o momento ou jogando Sul-Americana em 2024).\n*   **Botafogo:** Não participou em 2021 nem em 2023.\n*   **Fortaleza:** Não participou em 2021.",
+        "conversation_generated": [],
+        "error": null,
+        "token_usage_details": {
+            "prompt_tokens": 96,
+            "completion_tokens": 507,
+            "total_tokens": 603,
+            "reasoning_tokens": 0,
+            "cached_tokens": 0
+        }
+    }
+]

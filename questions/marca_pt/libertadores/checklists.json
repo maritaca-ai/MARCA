@@ -1,0 +1,45 @@
+{
+    "libertadores_2025_brazilian_teams": [
+        "A resposta deve citar que o Botafogo se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Flamengo se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Palmeiras se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Fortaleza se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Internacional se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o São Paulo se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Corinthians se classificou para a Copa Libertadores 2025",
+        "A resposta deve citar que o Bahia se classificou para a Copa Libertadores 2025"
+    ],
+
+    "libertadores_2023_brazilian_teams": [
+        "A resposta deve citar que o Flamengo se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Palmeiras se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Internacional se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Fluminense se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Corinthians se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Athletico Paranaense se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Atlético Mineiro se classificou para a Copa Libertadores 2023",
+        "A resposta deve citar que o Fortaleza se classificou para a Copa Libertadores 2023"
+    ],
+    "libertadores_2021_brazilian_teams": [
+        "A resposta deve citar que o Palmeiras se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Flamengo se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Internacional se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Atlético Mineiro se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o São Paulo se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Fluminense se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Grêmio se classificou para a Copa Libertadores 2021",
+        "A resposta deve citar que o Santos se classificou para a Copa Libertadores 2021"
+    ],
+    "libertadores_classified_2025_2023_2021": [
+        "A resposta deve citar que o Palmeiras se classificou para a Copa Libertadores 2025, 2023 e 2021",
+        "A resposta deve citar que o Flamengo se classificou para a Copa Libertadores 2025, 2023 e 2021",
+        "A resposta deve citar que o Internacional se classificou para a Copa Libertadores 2025, 2023 e 2021"
+    ],
+    "libertadores_classified_only_once_in_2025_2023_2021": [
+        "A resposta deve citar que o Botafogo se classificou apenas uma vez na Copa Libertadores entre os 3 anos, classificando-se apenas em 2025",
+        "A resposta deve citar que o Bahia se classificou apenas uma vez na Copa Libertadores entre os 3 anos, classificando-se apenas em 2025",
+        "A resposta deve citar que o Athletico Paranaense se classificou apenas uma vez na Copa Libertadores entre os 3 anos, classificando-se apenas em 2023",
+        "A resposta deve citar que o Grêmio se classificou apenas uma vez na Copa Libertadores entre os 3 anos, classificando-se apenas em 2021",
+        "A resposta deve citar que o Santos se classificou apenas uma vez na Copa Libertadores entre os 3 anos, classificando-se apenas em 2021"
+    ]
+}
